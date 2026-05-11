@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+TraeAI-*/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ChromaDB
+wheat-disease-diagnosis/data/chroma_db/
+
+# Neo4j
+wheat-disease-diagnosis/data/neo4j/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model cache
+.cache/
+models/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large files (optional, uncomment if needed)
+# *.pdf
+# *.docx
+# *.doc

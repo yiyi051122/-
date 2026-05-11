@@ -1,0 +1,95 @@
+{
+  "timestamp": "2026-05-11 01:24:50",
+  "total_queries": 700,
+  "results": [
+    {
+      "scheme_name": "知识图谱",
+      "modules": [
+        "kg"
+      ],
+      "total_queries": 700,
+      "avg_recall": 0.8142857142857143,
+      "avg_precision": 0.7685714285714286,
+      "avg_f1": 0.7838095238095237,
+      "avg_hit_rate": 0.8142857142857143,
+      "time_elapsed": 2.563091516494751
+    },
+    {
+      "scheme_name": "向量检索",
+      "modules": [
+        "dense"
+      ],
+      "total_queries": 700,
+      "avg_recall": 0.8757142857142857,
+      "avg_precision": 0.3614047619047619,
+      "avg_f1": 0.4857619047619048,
+      "avg_hit_rate": 0.8757142857142857,
+      "time_elapsed": 28.892503261566162
+    },
+    {
+      "scheme_name": "BM25",
+      "modules": [
+        "bm25"
+      ],
+      "total_queries": 700,
+      "avg_recall": 0.9642857142857143,
+      "avg_precision": 0.31164285714285717,
+      "avg_f1": 0.45942857142857146,
+      "avg_hit_rate": 0.9642857142857143,
+      "time_elapsed": 0.16175007820129395
+    },
+    {
+      "scheme_name": "向量检索 + 知识图谱",
+      "modules": [
+        "dense",
+        "kg"
+      ],
+      "total_queries": 700,
+      "avg_recall": 0.95,
+      "avg_precision": 0.5320714285714285,
+      "avg_f1": 0.629047619047619,
+      "avg_hit_rate": 0.95,
+      "time_elapsed": 31.04059863090515
+    },
+    {
+      "scheme_name": "知识图谱 + BM25",
+      "modules": [
+        "kg",
+        "bm25"
+      ],
+      "total_queries": 700,
+      "avg_recall": 0.9685714285714285,
+      "avg_precision": 0.5316666666666667,
+      "avg_f1": 0.6319523809523809,
+      "avg_hit_rate": 0.9685714285714285,
+      "time_elapsed": 2.788714647293091
+    },
+    {
+      "scheme_name": "向量检索 + BM25",
+      "modules": [
+        "dense",
+        "bm25"
+      ],
+      "total_queries": 700,
+      "avg_recall": 0.9571428571428572,
+      "avg_precision": 0.35814285714285715,
+      "avg_f1": 0.4942857142857143,
+      "avg_hit_rate": 0.9571428571428572,
+      "time_elapsed": 27.09483051300049
+    },
+    {
+      "scheme_name": "向量检索 + 知识图谱 + BM25",
+      "modules": [
+        "dense",
+        "kg",
+        "bm25"
+      ],
+      "total_queries": 700,
+      "avg_recall": 0.98,
+      "avg_precision": 0.5133095238095238,
+      "avg_f1": 0.6217142857142857,
+      "avg_hit_rate": 0.98,
+      "time_elapsed": 30.625190258026123
+    }
+  ]
+}

@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 0,
+    "question": "小麦主要病害及综合防控技术在什么时期容易发病？",
+    "answer": "关于小麦主要病害及综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及综合防控技术_孙新华.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 1,
+    "question": "小麦白秆病用什么药剂防治？",
+    "answer": "：①用种子总量的0.2%的25%三唑酮可湿性粉剂拌种，拌后闷种20天。或用种子重量的0.05%～0.1%的40%拌种双可湿性粉剂拌种，拌后闷种20天。或用种子总量的0.2%的25%多菌灵可湿性粉剂拌种，拌后闷种20天。或用1%石灰水浸种6昼夜，或3%石灰水浸3昼夜。浸种时，不要弄破石灰水表面的薄膜。②田间出现病株后，喷50%甲基硫菌灵可湿性粉剂800倍液，或50%苯菌灵可湿性粉剂1 500倍液。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 2,
+    "question": "如何识别小麦赤霉病发生特点及防控措施？",
+    "answer": "关于小麦赤霉病发生特点及防控措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生特点及防控措施_郭鑫莹.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 3,
+    "question": "小麦白秆病的发病规律是什么？",
+    "answer": "关于小麦白秆病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 4,
+    "question": "如何识别小麦梭条斑花叶病？",
+    "answer": "关于小麦梭条斑花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦梭条斑花叶病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 5,
+    "question": "小麦白粉病发病原因及综合防治对策在什么时期容易发病？",
+    "answer": "关于小麦白粉病发病原因及综合防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发病原因及综合防治对策_周荣.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 6,
+    "question": "小麦病害的主要症状有哪些？",
+    "answer": "关于小麦病害的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同施药处理对小麦两种病害防治效果的试验对比研究_李影.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 7,
+    "question": "小麦散黑穗病的发病规律是什么？",
+    "answer": "关于小麦散黑穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦散黑穗病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 8,
+    "question": "小麦链格孢叶枯病的传播途径是什么？",
+    "answer": "关于小麦链格孢叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦链格孢叶枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 9,
+    "question": "小麦霜霉病防治措施的传播途径是什么？",
+    "answer": "关于小麦霜霉病防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦霜霉病防治措施_郑树森.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 10,
+    "question": "如何识别小麦白秆病？",
+    "answer": "关于小麦白秆病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 11,
+    "question": "如何识别小麦灰霉病？",
+    "answer": "关于小麦灰霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 12,
+    "question": "小麦细菌性条斑病的发病规律是什么？",
+    "answer": "关于小麦细菌性条斑病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦细菌性条斑病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 13,
+    "question": "小麦秆黑粉病对小麦有什么危害？",
+    "answer": "关于小麦秆黑粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦秆黑粉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 14,
+    "question": "小麦黑颖病的发病原因是什么？",
+    "answer": "。偏施氮肥，播种密度过大，通风不良，有利于病害发生。小麦重茬，整地不平，大水慢灌，有利于发病。\n防治方法\n农业防治：选用抗病品种。建立无病种子田，选留无病种子。合理轮作倒茬，收获后清除病残体并深耕。种子处理：先将种子在28～32℃水中预浸4小时后，再于53℃水中浸种7分钟。也可用种子重量0.3％的15％噻枯唑-018胶悬剂浸种12小时，阴干后播种。或用0.3％的15％叶枯宁胶悬剂溶液浸种12小时后",
+    "ground_truth_docs": [
+      "小麦黑颖病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 15,
+    "question": "小麦散黑穗病的防治措施是什么？",
+    "answer": "关于小麦散黑穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦散黑穗病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 16,
+    "question": "小麦黑节病的防治措施是什么？",
+    "answer": "关于小麦黑节病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦黑节病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 17,
+    "question": "小麦颖枯病的传播途径是什么？",
+    "answer": "关于小麦颖枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 18,
+    "question": "小麦赤霉病的传播途径是什么？",
+    "answer": "关于小麦赤霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同杀菌剂对小麦赤霉病防治效果分析_马晓霞.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 19,
+    "question": "小麦霜霉病防治措施在什么时期容易发病？",
+    "answer": "关于小麦霜霉病防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦霜霉病防治措施_郑树森.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 20,
+    "question": "小麦雪霉叶枯病的发生与防治主要危害小麦哪些部位？",
+    "answer": "关于小麦雪霉叶枯病的发生与防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病的发生与防治_赵厚芹.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 21,
+    "question": "如何识别小麦赤霉病的发生情况和防治对策？",
+    "answer": "关于小麦赤霉病的发生情况和防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的发生情况和防治对策_赵鹏.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 22,
+    "question": "小麦蓝矮病的传播途径是什么？",
+    "answer": "关于小麦蓝矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蓝矮病毒病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 23,
+    "question": "小麦胞囊线虫病的发病规律是什么？",
+    "answer": "关于小麦胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 24,
+    "question": "小麦根腐病用什么药剂效果好？",
+    "answer": "关于小麦根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦根腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 25,
+    "question": "小麦赤霉病发生特点及防控措施的主要症状有哪些？",
+    "answer": "关于小麦赤霉病发生特点及防控措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生特点及防控措施_郭鑫莹.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 26,
+    "question": "小麦颖枯病的主要症状有哪些？",
+    "answer": "关于小麦颖枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 27,
+    "question": "小麦赤霉病发生原因与防治举措研究在什么条件下容易发生？",
+    "answer": "关于小麦赤霉病发生原因与防治举措研究的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生原因与防治举措研究_顾娟.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 28,
+    "question": "小麦炭疽病的症状是什么？",
+    "answer": "主要为害叶鞘和叶片。叶鞘染病麦株基部叶鞘先发病，初生褐色病变，产生1～2cm长的椭圆形病斑，边缘暗褐色，中间灰褐色，后沿叶脉纵向扩展成长条形褐斑，致病部以上叶片发黄枯死；叶片染病 形成近圆形至椭圆形病斑。后期病部连成一片，致叶片早枯。以上病部均有小黑粒点，即病原菌的分生孢子盘。茎秆染病生出梭形褐色病斑。\n病原物\n病原为禾生炭疽菌 Colletotrichum graminicola (Ces.) ",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 29,
+    "question": "小麦黄矮病的防治措施是什么？",
+    "answer": "关于小麦黄矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 30,
+    "question": "小麦蓝矮病对小麦有什么危害？",
+    "answer": "关于小麦蓝矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蓝矮病毒病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 31,
+    "question": "小麦白粉病的发生与防控主要危害小麦哪些部位？",
+    "answer": "关于小麦白粉病的发生与防控的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病的发生与防控_杨亮.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 32,
+    "question": "小麦黄矮病主要危害小麦哪些部位？",
+    "answer": "关于小麦黄矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 33,
+    "question": "小麦病害对小麦有什么危害？",
+    "answer": "关于小麦病害的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同施药处理对小麦两种病害防治效果的试验对比研究_李影.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 34,
+    "question": "小麦基腐病发生规律及综合防治措施用什么药剂效果好？",
+    "answer": "关于小麦基腐病发生规律及综合防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病发生规律及综合防治措施_孙苏阳.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 35,
+    "question": "如何识别小麦蜜穗病？",
+    "answer": "关于小麦蜜穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦蜜穗病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 36,
+    "question": "小麦土传花叶病用什么药剂效果好？",
+    "answer": "关于小麦土传花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦土传花叶病毒病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 37,
+    "question": "小麦黑节病主要危害小麦哪些部位？",
+    "answer": "关于小麦黑节病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦黑节病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 38,
+    "question": "小麦赤霉病的发生情况和防治对策用什么药剂效果好？",
+    "answer": "关于小麦赤霉病的发生情况和防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的发生情况和防治对策_赵鹏.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 39,
+    "question": "小麦斑枯病的主要症状有哪些？",
+    "answer": "关于小麦斑枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦斑枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 40,
+    "question": "小麦链格孢叶枯病在什么时期容易发病？",
+    "answer": "关于小麦链格孢叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦链格孢叶枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 41,
+    "question": "小麦病害的发病规律是什么？",
+    "answer": "关于小麦病害的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同施药处理对小麦两种病害防治效果的试验对比研究_李影.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 42,
+    "question": "小麦赤霉病用什么药剂防治？",
+    "answer": "。该病害主要为害小麦叶片、叶鞘、茎秆及穗部。\n症状特点：\n发病初期，麦叶会出现几层鲜黄色的夏孢子堆，呈小长条状，平行于叶脉；小麦即将成熟时，叶鞘出现黑色、狭长形的条状疱斑，即冬孢子堆。该病害分布广、破坏面积大，极易造成小麦大量减产。\n二、白粉病\n白粉病在沿海地区、四川、贵州、云南发生较为普遍。种植面积过大、水肥管理不当是引起白粉病的重要原因。\n症状特点：\n白粉病一般发生在苗期及成株期，初期感染小麦",
+    "ground_truth_docs": [
+      "小麦赤霉病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 43,
+    "question": "小麦胞囊线虫病在什么时期容易发病？",
+    "answer": "关于小麦胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 44,
+    "question": "小麦赤霉病发病机理与流行规律及高效防控新技术的探索的发病规律是什么？",
+    "answer": "关于小麦赤霉病发病机理与流行规律及高效防控新技术的探索的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病机理与流行规律及高效防控新技术的探索_姜岳栋.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 45,
+    "question": "如何识别小麦赤霉病与白粉病的防治？",
+    "answer": "关于小麦赤霉病与白粉病的防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病与白粉病的防治_袁晓霞.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 46,
+    "question": "小麦腥黑穗病是什么病害？",
+    "answer": "小麦腥黑穗病是小麦的世界性重要病害之一。该病不仅使小麦减产，而且使麦粒及面粉的品质降低\n为害症状\n病株一般较健株稍矮，分蘖增多，病穗较短，直立，颜色较健穗深，开始为灰绿色，以后变为灰白色，颖壳略向外张开，露出部分病粒。小麦受害后，大多是全穗麦粒变成病粒，少部分穗为部分麦粒变成病粒。病粒较健粒短肥，初为暗绿色，最后变成灰白色，外面包有一层灰褐色薄膜，里面充满黑粉，并有鱼腥味，故称腥黑穗病。\n病原物\n",
+    "ground_truth_docs": [
+      "小麦腥黑穗病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 47,
+    "question": "小麦赤霉病发生特点及防控措施主要危害小麦哪些部位？",
+    "answer": "关于小麦赤霉病发生特点及防控措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生特点及防控措施_郭鑫莹.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 48,
+    "question": "小麦基腐病是什么病害？",
+    "answer": "小麦基腐病可分为茎基腐、根腐、穗腐。该病一般在东北春麦区、西北地区危害较重。\n病原及危害症状\n发生规律\n小麦基腐病发病率随有效病原物、气候和小麦栽培方法而异。在20～24℃时前茬作物感病残体上真菌孢子大量形成，病原物扩散需要经常降雨，孢子形成、侵染需高湿，故降水多或高海拔地区凉爽、潮湿的春、秋季气候及暖冬气候都利于病害发生发展。\n影响发病的因素及条件\n品种因素\n易感病、偏春性的品种是小麦基腐病发病",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 49,
+    "question": "小麦赤霉病发生特点及防控措施在什么条件下容易发生？",
+    "answer": "关于小麦赤霉病发生特点及防控措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生特点及防控措施_郭鑫莹.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 50,
+    "question": "小麦赤霉病如何防治？",
+    "answer": "技术\n简介\n小麦是我国重要的粮食作物之一，在种植过程中容易受到病虫害侵扰，导致其质量、产量大幅下降。小麦病虫害防治应贯彻预防为主、综合防治的原则，以农业手段为主，化学、物理和生物手段为辅。\n常见小麦病害\n一、条锈病\n条锈病是一种流行性、毁灭性疾病，突发性强、蔓延速度快，一旦发现必须及时用药。该病害主要为害小麦叶片、叶鞘、茎秆及穗部。\n症状特点：\n发病初期，麦叶会出现几层鲜黄色的夏孢子堆，呈小长条状",
+    "ground_truth_docs": [
+      "小麦赤霉病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 51,
+    "question": "小麦土传花叶病在什么条件下容易发生？",
+    "answer": "关于小麦土传花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦土传花叶病毒病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 52,
+    "question": "小麦条锈病在什么条件下容易发生？",
+    "answer": "关于小麦条锈病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦条锈病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 53,
+    "question": "小麦白粉病发生原因分析及防治技术推广的主要症状有哪些？",
+    "answer": "关于小麦白粉病发生原因分析及防治技术推广的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发生原因分析及防治技术推广_李鹏.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 54,
+    "question": "小麦黑节病在什么条件下容易发生？",
+    "answer": "关于小麦黑节病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦黑节病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 55,
+    "question": "小麦leaf的传播途径是什么？",
+    "answer": "关于小麦leaf的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "leaf_rust.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 56,
+    "question": "如何识别小麦powdery？",
+    "answer": "关于小麦powdery的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "powdery_mildew.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 57,
+    "question": "小麦细菌性条斑病主要危害小麦哪些部位？",
+    "answer": "关于小麦细菌性条斑病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦细菌性条斑病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 58,
+    "question": "如何识别小麦leaf？",
+    "answer": "关于小麦leaf的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "leaf_rust.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 59,
+    "question": "小麦叶枯病的症状是什么？",
+    "answer": "主要为害叶片。病斑初为黄褐色小斑点，后扩展为椭圆形至纺锤形大斑，长可达30mm，病健交界不明显，病斑中央颜色较深，外围有黄晕，且具不明显的轮纹。后期病斑相互融合，引起叶片变黄干枯。\n病原物\n病原为小麦德氏霉 Drechslera tritici-repentis (Died) Shoem，属半知菌亚门。有性态为 Pyrenophora tritici-repentis (Died) Drechsl",
+    "ground_truth_docs": [
+      "小麦叶枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 60,
+    "question": "小麦根腐病主要危害小麦哪些部位？",
+    "answer": "关于小麦根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦根腐病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 61,
+    "question": "小麦秆黑粉病的传播途径是什么？",
+    "answer": "关于小麦秆黑粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦秆黑粉病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 62,
+    "question": "小麦基腐病用什么药剂效果好？",
+    "answer": "关于小麦基腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 63,
+    "question": "小麦白粉病用什么药剂防治？",
+    "answer": "，有些种植户盲目用药，在孕穗期和氧化后期阶段用药，导致药剂效果不明显，或者选择喷洒药剂的机械设备不合理，造成喷洒效果不均匀，导致小麦穗部无法正常吸收药液，从而增加发病概率。\n四、防治方法\n（一）关注气象信息，预防病害\n气候对小麦赤霉病的影响比较大，在日常工作中要持续关注天气情况，如果出现连续降雨天气，要事先做好预防工作。\n（二）培育和推广抗性能力强的小麦品种\n由于不同的小麦品种抗病能力存在差异，相",
+    "ground_truth_docs": [
+      "小麦白粉病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 64,
+    "question": "小麦白粉病在什么时期容易发病？",
+    "answer": "关于小麦白粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦白粉病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 65,
+    "question": "小麦powdery在什么时期容易发病？",
+    "answer": "关于小麦powdery的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "powdery_mildew.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 66,
+    "question": "小麦赤霉病的特点及防治方法主要危害小麦哪些部位？",
+    "answer": "关于小麦赤霉病的特点及防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的特点及防治方法_李瑞祥.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 67,
+    "question": "如何识别小麦fusarium？",
+    "answer": "关于小麦fusarium的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "fusarium_head_blight.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 68,
+    "question": "如何识别小麦白粉病发生原因分析及防治技术推广？",
+    "answer": "关于小麦白粉病发生原因分析及防治技术推广的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发生原因分析及防治技术推广_李鹏.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 69,
+    "question": "小麦基腐病发生规律及综合防治措施的传播途径是什么？",
+    "answer": "关于小麦基腐病发生规律及综合防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病发生规律及综合防治措施_孙苏阳.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 70,
+    "question": "小麦黑节病在什么时期容易发病？",
+    "answer": "关于小麦黑节病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦黑节病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 71,
+    "question": "小麦白粉病发病原因及综合防治对策的传播途径是什么？",
+    "answer": "关于小麦白粉病发病原因及综合防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发病原因及综合防治对策_周荣.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 72,
+    "question": "小麦细菌性条斑病用什么药剂防治？",
+    "answer": "：发病前或发病初期可用72%农用硫酸链霉素可溶性粉剂3000倍液，或70%敌克松可湿性粉剂2000倍液，或20%噻森铜乳油500倍液，每隔7～10天喷一次，共喷2～3次。",
+    "ground_truth_docs": [
+      "小麦细菌性条斑病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 73,
+    "question": "小麦链格孢叶枯病在什么条件下容易发生？",
+    "answer": "关于小麦链格孢叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦链格孢叶枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 74,
+    "question": "小麦白粉病与赤霉病的发生及防治在什么条件下容易发生？",
+    "answer": "关于小麦白粉病与赤霉病的发生及防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病与赤霉病的发生及防治_秦悦.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 75,
+    "question": "小麦纹枯病的防治措施主要危害小麦哪些部位？",
+    "answer": "关于小麦纹枯病的防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦纹枯病的防治措施_武庆绪.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 76,
+    "question": "小麦主要病害及综合防控技术对小麦有什么危害？",
+    "answer": "关于小麦主要病害及综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及综合防控技术_孙新华.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 77,
+    "question": "小麦颖枯病对小麦有什么危害？",
+    "answer": "关于小麦颖枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 78,
+    "question": "小麦根腐病的发病规律是什么？",
+    "answer": "关于小麦根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦根腐病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 79,
+    "question": "小麦雪腐病主要危害小麦哪些部位？",
+    "answer": "关于小麦雪腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 80,
+    "question": "如何识别小麦雪腐病？",
+    "answer": "关于小麦雪腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 81,
+    "question": "小麦禾谷胞囊线虫病的防治措施是什么？",
+    "answer": "关于小麦禾谷胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 82,
+    "question": "小麦sheath在什么时期容易发病？",
+    "answer": "关于小麦sheath的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "sheath_blight.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 83,
+    "question": "小麦白秆病国内外研究动态及防治对策的传播途径是什么？",
+    "answer": "关于小麦白秆病国内外研究动态及防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病国内外研究动态及防治对策_赵宜谦.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 84,
+    "question": "小麦基腐病主要危害小麦哪些部位？",
+    "answer": "关于小麦基腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 85,
+    "question": "小麦散黑穗病的症状是什么？",
+    "answer": "主要为害茎节，病部呈深褐色，可扩展至节间，发病严重时，茎节变黑腐烂，病部以上枯死。叶片发病，呈初生水渍状条斑，随后病斑颜色逐渐加深，最后变为深褐色。病斑可扩展至叶鞘上，形成长条形病斑，病斑黑褐色。\n病原物\n病原为丁香假单胞菌条纹致病变种 Pseudomona syringae pv.striafaciens (Elliott) Young et al.，是一种细菌。\n形态：菌体杆状，两端钝圆，大小",
+    "ground_truth_docs": [
+      "小麦散黑穗病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 86,
+    "question": "小麦条锈病在什么时期容易发病？",
+    "answer": "关于小麦条锈病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦条锈病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 87,
+    "question": "小麦雪霉叶枯病的发病规律是什么？",
+    "answer": "关于小麦雪霉叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 88,
+    "question": "如何识别小麦黄矮病？",
+    "answer": "关于小麦黄矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 89,
+    "question": "小麦颖枯病在什么条件下容易发生？",
+    "answer": "关于小麦颖枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 90,
+    "question": "小麦灰霉病在什么时期容易发病？",
+    "answer": "关于小麦灰霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 91,
+    "question": "小麦黄矮病的主要症状有哪些？",
+    "answer": "关于小麦黄矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 92,
+    "question": "小麦麦角病在什么时期容易发病？",
+    "answer": "关于小麦麦角病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦麦角病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 93,
+    "question": "小麦白秆病在什么条件下容易发生？",
+    "answer": "关于小麦白秆病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 94,
+    "question": "小麦白粉病发生原因分析及防治技术推广的发病规律是什么？",
+    "answer": "关于小麦白粉病发生原因分析及防治技术推广的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发生原因分析及防治技术推广_李鹏.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 95,
+    "question": "小麦赤霉病与白粉病的防治的发病规律是什么？",
+    "answer": "关于小麦赤霉病与白粉病的防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病与白粉病的防治_袁晓霞.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 96,
+    "question": "小麦白粉病的主要症状有哪些？",
+    "answer": "关于小麦白粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦白粉病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 97,
+    "question": "小麦基腐病发生规律及综合防治措施对小麦有什么危害？",
+    "answer": "关于小麦基腐病发生规律及综合防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病发生规律及综合防治措施_孙苏阳.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 98,
+    "question": "小麦霜霉病防治措施主要危害小麦哪些部位？",
+    "answer": "关于小麦霜霉病防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦霜霉病防治措施_郑树森.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 99,
+    "question": "小麦蓝矮病的主要症状有哪些？",
+    "answer": "关于小麦蓝矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蓝矮病毒病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 100,
+    "question": "如何识别小麦雪霉叶枯病的发生与防治？",
+    "answer": "关于小麦雪霉叶枯病的发生与防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病的发生与防治_赵厚芹.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 101,
+    "question": "小麦赤霉病发生原因与防治举措研究的防治措施是什么？",
+    "answer": "关于小麦赤霉病发生原因与防治举措研究的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生原因与防治举措研究_顾娟.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 102,
+    "question": "小麦粒线虫病的发病规律是什么？",
+    "answer": "关于小麦粒线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 103,
+    "question": "小麦雪腐病的防治措施是什么？",
+    "answer": "关于小麦雪腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 104,
+    "question": "小麦白粉病与赤霉病的发生及防治在什么时期容易发病？",
+    "answer": "关于小麦白粉病与赤霉病的发生及防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病与赤霉病的发生及防治_秦悦.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 105,
+    "question": "小麦sheath的主要症状有哪些？",
+    "answer": "关于小麦sheath的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "sheath_blight.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 106,
+    "question": "小麦禾谷胞囊线虫病主要危害小麦哪些部位？",
+    "answer": "关于小麦禾谷胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 107,
+    "question": "小麦sheath的传播途径是什么？",
+    "answer": "关于小麦sheath的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "sheath_blight.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 108,
+    "question": "小麦黄矮病的传播途径是什么？",
+    "answer": "关于小麦黄矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 109,
+    "question": "小麦病害在什么时期容易发病？",
+    "answer": "关于小麦病害的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同施药处理对小麦两种病害防治效果的试验对比研究_李影.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 110,
+    "question": "小麦全蚀病主要危害小麦哪些部位？",
+    "answer": "关于小麦全蚀病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 111,
+    "question": "小麦丛矮病如何防治？",
+    "answer": "简介\n小麦丛矮病是由灰飞虱传播的病毒病，其发生规律与田间灰飞虱的种群数量有关。近年来，小麦丛矮病在河北省邢台市各小麦种植区均有不同程度的发生，对邢台市小麦生产已构成潜在威胁。\n发生规律\n小麦丛矮病病原物为北方禾谷花叶病毒，由媒介灰飞虱传毒。带毒灰飞虱取食小麦植株后，可致健康植株发病。病株表现为叶脉褪绿黄化，植株矮化，分蘖增多，呈丛矮状。越冬前感染病株大多不能越冬而死亡；返青后感染病株大多分蘖增多，",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 112,
+    "question": "小麦灰霉病的传播途径是什么？",
+    "answer": "关于小麦灰霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 113,
+    "question": "小麦雪腐病在什么条件下容易发生？",
+    "answer": "关于小麦雪腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 114,
+    "question": "小麦雪腐病对小麦有什么危害？",
+    "answer": "关于小麦雪腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 115,
+    "question": "如何识别小麦土传花叶病？",
+    "answer": "关于小麦土传花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦土传花叶病毒病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 116,
+    "question": "小麦fusarium在什么时期容易发病？",
+    "answer": "关于小麦fusarium的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "fusarium_head_blight.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 117,
+    "question": "小麦蜜穗病的发病规律是什么？",
+    "answer": "关于小麦蜜穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦蜜穗病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 118,
+    "question": "小麦颖枯病用什么药剂防治？",
+    "answer": "：重病区，可在小麦分蘖前期喷洒70％代森锰锌可湿性粉剂600倍液，或75％百菌清可湿性粉剂800倍液，或25％苯菌灵乳油800倍液，或25％敌力脱乳油2 000倍液。每隔15～20天喷1次，连续1～3次。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 119,
+    "question": "小麦链格孢叶枯病的主要症状有哪些？",
+    "answer": "关于小麦链格孢叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦链格孢叶枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 120,
+    "question": "小麦雪霉叶枯病的发生与防治在什么时期容易发病？",
+    "answer": "关于小麦雪霉叶枯病的发生与防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病的发生与防治_赵厚芹.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 121,
+    "question": "小麦黄矮病用什么药剂效果好？",
+    "answer": "关于小麦黄矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 122,
+    "question": "小麦雪腐病如何防治？",
+    "answer": "简介\n小麦雪腐病、雪霉病主要发生在北疆积雪较多的冬麦区，是冬小麦田间危害最重的苗期病害。发生较轻年份因部分分蘖死亡而减产，降雪多、积雪时间长的年份发病重，常可引起全田麦苗死亡，导致绝产绝收，产量损失可达20%以上。\n发病特征\n一、小麦雪腐病\n由半知菌门雪腐格氏霉侵染引起的真菌性病害。发生时期为冬小麦苗期，主要危害根、叶和叶鞘。\n症状特点：\n早春积雪消融时开始发病，叶片呈水浸状，似开水烫过，柔软、颜",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 123,
+    "question": "小麦纹枯病的防治措施在什么时期容易发病？",
+    "answer": "关于小麦纹枯病的防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦纹枯病的防治措施_武庆绪.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 124,
+    "question": "小麦麦角病对小麦有什么危害？",
+    "answer": "关于小麦麦角病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦麦角病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 125,
+    "question": "小麦白粉病发病原因及综合防治对策的防治措施是什么？",
+    "answer": "关于小麦白粉病发病原因及综合防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发病原因及综合防治对策_周荣.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 126,
+    "question": "小麦粒线虫病用什么药剂效果好？",
+    "answer": "关于小麦粒线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 127,
+    "question": "小麦powdery的主要症状有哪些？",
+    "answer": "关于小麦powdery的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "powdery_mildew.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 128,
+    "question": "小麦蠕孢叶斑根腐病的传播途径是什么？",
+    "answer": "关于小麦蠕孢叶斑根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蠕孢叶斑根腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 129,
+    "question": "小麦细菌性条斑病在什么条件下容易发生？",
+    "answer": "关于小麦细菌性条斑病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦细菌性条斑病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 130,
+    "question": "小麦霜霉病防治措施在什么条件下容易发生？",
+    "answer": "关于小麦霜霉病防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦霜霉病防治措施_郑树森.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 131,
+    "question": "小麦麦角病的防治措施是什么？",
+    "answer": "关于小麦麦角病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦麦角病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 132,
+    "question": "如何识别小麦雪霉叶枯病？",
+    "answer": "关于小麦雪霉叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 133,
+    "question": "如何识别小麦粒线虫病？",
+    "answer": "关于小麦粒线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 134,
+    "question": "小麦卷曲病的发病规律是什么？",
+    "answer": "关于小麦卷曲病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦卷曲病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 135,
+    "question": "小麦全蚀病用什么药剂防治？",
+    "answer": "保护层覆盖于种子。当前推荐的种子处理药剂有含有硅噻菌胺、咯菌腈和精甲霜灵的种衣剂，以硅噻菌胺为例，使用25g/L硅噻菌胺悬浮拌种剂时，按照药种比1:（200—250）的比例进行拌种处理，即每100kg种子使用400～500mL药剂。拌种前，需将药剂与适量水（通常为种子质量的1%～1.5%）充分混合稀释，然后倒入种子中，通过机械搅拌或人工翻拌确保药剂均匀包裹种子表面，使种子表面形成致密的药膜，咯菌腈",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 136,
+    "question": "小麦丛矮病的防治措施是什么？",
+    "answer": "关于小麦丛矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 137,
+    "question": "小麦全蚀病防治技术要点用什么药剂效果好？",
+    "answer": "关于小麦全蚀病防治技术要点的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病防治技术要点_孙香脂.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 138,
+    "question": "小麦禾谷胞囊线虫病的发病规律是什么？",
+    "answer": "关于小麦禾谷胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 139,
+    "question": "小麦粒线虫病在什么条件下容易发生？",
+    "answer": "关于小麦粒线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 140,
+    "question": "小麦黑颖病如何防治？",
+    "answer": "：种植感病品种是该病发生流行的主要原因。偏施氮肥，播种密度过大，通风不良，有利于病害发生。小麦重茬，整地不平，大水慢灌，有利于发病。\n防治方法\n农业防治：选用抗病品种。建立无病种子田，选留无病种子。合理轮作倒茬，收获后清除病残体并深耕。种子处理：先将种子在28～32℃水中预浸4小时后，再于53℃水中浸种7分钟。也可用种子重量0.3％的15％噻枯唑-018胶悬剂浸种12小时，阴干后播种。或用0.3％",
+    "ground_truth_docs": [
+      "小麦黑颖病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 141,
+    "question": "小麦全蚀病对小麦有什么危害？",
+    "answer": "关于小麦全蚀病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 142,
+    "question": "小麦白粉病与赤霉病的发生及防治用什么药剂效果好？",
+    "answer": "关于小麦白粉病与赤霉病的发生及防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病与赤霉病的发生及防治_秦悦.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 143,
+    "question": "小麦颖枯病的发病规律是什么？",
+    "answer": "关于小麦颖枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 144,
+    "question": "小麦全蚀病防治技术要点的主要症状有哪些？",
+    "answer": "关于小麦全蚀病防治技术要点的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病防治技术要点_孙香脂.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 145,
+    "question": "如何识别小麦秆黑粉病？",
+    "answer": "关于小麦秆黑粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦秆黑粉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 146,
+    "question": "小麦链格孢叶枯病的防治措施是什么？",
+    "answer": "关于小麦链格孢叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦链格孢叶枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 147,
+    "question": "小麦卷曲病的主要症状有哪些？",
+    "answer": "关于小麦卷曲病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦卷曲病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 148,
+    "question": "小麦赤霉病流行关键环节：从病菌生态适应到防控策略在什么条件下容易发生？",
+    "answer": "关于小麦赤霉病流行关键环节：从病菌生态适应到防控策略的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病流行关键环节：从病菌生态适应到防控策略_侯孟德.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 149,
+    "question": "小麦梭条斑花叶病用什么药剂效果好？",
+    "answer": "关于小麦梭条斑花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦梭条斑花叶病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 150,
+    "question": "小麦条锈病用什么药剂效果好？",
+    "answer": "关于小麦条锈病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦条锈病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 151,
+    "question": "小麦赤霉病的发生情况和防治对策的主要症状有哪些？",
+    "answer": "关于小麦赤霉病的发生情况和防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的发生情况和防治对策_赵鹏.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 152,
+    "question": "小麦卷曲病的传播途径是什么？",
+    "answer": "关于小麦卷曲病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦卷曲病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 153,
+    "question": "小麦白粉病的传播途径是什么？",
+    "answer": "关于小麦白粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦白粉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 154,
+    "question": "小麦蠕孢叶斑根腐病的主要症状有哪些？",
+    "answer": "关于小麦蠕孢叶斑根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蠕孢叶斑根腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 155,
+    "question": "小麦条锈病的主要症状有哪些？",
+    "answer": "关于小麦条锈病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦条锈病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 156,
+    "question": "小麦炭疽病在什么条件下容易发生？",
+    "answer": "关于小麦炭疽病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 157,
+    "question": "如何识别小麦炭疽病？",
+    "answer": "关于小麦炭疽病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 158,
+    "question": "小麦梭条斑花叶病主要危害小麦哪些部位？",
+    "answer": "关于小麦梭条斑花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦梭条斑花叶病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 159,
+    "question": "小麦条锈病如何防治？",
+    "answer": "的最佳时机。可用莠去津70～100 g/667 m²或草甘膦30～50 g/667 m²兑水40～50 kg喷洒。\n（四）确定最佳播种期\n（五）科学播种密度\n播种行距15～20 cm，播种深度3～5 cm，播种量6～8 kg/667 m²，大田保苗数量控制在12万～25万株/667 m²。\n（六）构建区域监测网\n设立监测点，定期收集病害发生数据，建立预报模型，实现预警功能。\n二、生物防治技术\n利用",
+    "ground_truth_docs": [
+      "小麦条锈病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 160,
+    "question": "小麦白粉病在什么条件下容易发生？",
+    "answer": "关于小麦白粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦白粉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 161,
+    "question": "小麦纹枯病的防治措施的传播途径是什么？",
+    "answer": "关于小麦纹枯病的防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦纹枯病的防治措施_武庆绪.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 162,
+    "question": "如何识别小麦sheath？",
+    "answer": "关于小麦sheath的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "sheath_blight.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 163,
+    "question": "小麦主要病害及综合防控技术用什么药剂效果好？",
+    "answer": "关于小麦主要病害及综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及综合防控技术_孙新华.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 164,
+    "question": "小麦白粉病与赤霉病的发生及防治的防治措施是什么？",
+    "answer": "关于小麦白粉病与赤霉病的发生及防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病与赤霉病的发生及防治_秦悦.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 165,
+    "question": "小麦细菌性条斑病的症状是什么？",
+    "answer": "主要为害叶片，严重时也可为害叶鞘、茎秆、颖片和籽粒。发病初期，病部出现针尖大小的暗绿色小斑，后扩展为水浸状的半透明条斑，最后颜色变为深褐色。病部常出现露珠状的菌脓。\n病原物\n病原为小麦黑颖病黄单胞菌 Xanthomonas campestris pv. undulosa (Smith, Jones et Raddy) Dye。\n形态：菌体短杆状，两端钝圆，大小(1～2.5)μm×(0.5～0.8)",
+    "ground_truth_docs": [
+      "小麦细菌性条斑病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 166,
+    "question": "小麦麦角病用什么药剂效果好？",
+    "answer": "关于小麦麦角病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦麦角病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 167,
+    "question": "小麦丛矮病在什么时期容易发病？",
+    "answer": "关于小麦丛矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 168,
+    "question": "小麦赤霉病的特点及防治方法用什么药剂效果好？",
+    "answer": "关于小麦赤霉病的特点及防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的特点及防治方法_李瑞祥.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 169,
+    "question": "小麦基腐病发生规律及综合防治措施的发病规律是什么？",
+    "answer": "关于小麦基腐病发生规律及综合防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病发生规律及综合防治措施_孙苏阳.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 170,
+    "question": "小麦黄矮病的症状是什么？",
+    "answer": "小麦黄矮病在小麦各生育期均可发生，症状主要表现在叶片上。病株叶片尖端出现鲜明的黄色，逐渐向下扩展，呈现与叶脉平行但不受叶脉限制的黄绿相间条纹。病株有不同程度的矮化。叶色的变化随品种特性不同而不同，有的为黄色至橙黄色，有的为红色至紫红色。\n矮化程度与感病时期有关：\n苗期感病：植株明显矮化，分蘖少，长势差，后期不能抽穗或仅抽少量秕穗。\n中期发病：植株较矮，新叶以下第一或第二叶变黄，能抽穗但穗小，结实率",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 171,
+    "question": "小麦斑点病是什么病害？",
+    "answer": "小麦红矮病是一种毁灭性的病害。主要发生在我国西北麦区，其中甘肃的陇东、陇南以及冬春麦交界地区的寒旱丘陵山塬地发生最重。\n为害症状\n麦苗发病以后，先在叶尖和基部出现紫褐色的斑点或短条纹。第2年小麦返青拔节阶段，叶色深绿，色调深浅不匀，接着从叶尖叶缘逐渐褪色，整个叶片变成紫红色，显得僵硬宽厚，表面光滑，病株生育迟缓停滞，重病株的心叶卷缩成黄白色针状，不能抽出而枯死；发病稍轻者虽能拔节，但节间缩短，叶鞘",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 172,
+    "question": "小麦秆黑粉病的主要症状有哪些？",
+    "answer": "关于小麦秆黑粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦秆黑粉病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 173,
+    "question": "小麦纹枯病的防治措施的发病规律是什么？",
+    "answer": "关于小麦纹枯病的防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦纹枯病的防治措施_武庆绪.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 174,
+    "question": "小麦赤霉病发病症状与防治方法对小麦有什么危害？",
+    "answer": "关于小麦赤霉病发病症状与防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病症状与防治方法_庞海龙.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 175,
+    "question": "如何识别小麦颖枯病？",
+    "answer": "关于小麦颖枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 176,
+    "question": "小麦黑颖病是什么病害？",
+    "answer": "为害症状\n主要为害穗部，也能侵染叶片、穗轴、茎秆等部位。穗部。初在颖片上部产生水渍状细条纹，继而发展成黄褐或深褐色条斑，后来逐渐形成斑块；严重时，蔓延到全颖片和麦芒，在麦芒上形成褐色斑，使芒变成黑褐色枯死。一般全穗及颖片上的条斑或斑块分布多不规则。发病种子皱缩或不饱满。发病轻的种子颜色变深。叶片。初呈现水渍状小点，后沿叶脉间上、下扩展，变成半透明条斑，最后呈现黄褐色或相互连结成大块黄褐色油渍状发亮",
+    "ground_truth_docs": [
+      "小麦黑颖病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 177,
+    "question": "小麦主要病害及其防治对小麦有什么危害？",
+    "answer": "关于小麦主要病害及其防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及其防治_李国俊.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 178,
+    "question": "小麦主要病害及其防治的传播途径是什么？",
+    "answer": "关于小麦主要病害及其防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及其防治_李国俊.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 179,
+    "question": "小麦白粉病发病原因及综合防治对策用什么药剂效果好？",
+    "answer": "关于小麦白粉病发病原因及综合防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发病原因及综合防治对策_周荣.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 180,
+    "question": "小麦散黑穗病在什么条件下容易发生？",
+    "answer": "关于小麦散黑穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦散黑穗病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 181,
+    "question": "小麦白秆病主要危害小麦哪些部位？",
+    "answer": "关于小麦白秆病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 182,
+    "question": "小麦赤霉病的特点及防治方法的发病规律是什么？",
+    "answer": "关于小麦赤霉病的特点及防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的特点及防治方法_李瑞祥.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 183,
+    "question": "小麦白秆病国内外研究动态及防治对策主要危害小麦哪些部位？",
+    "answer": "关于小麦白秆病国内外研究动态及防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病国内外研究动态及防治对策_赵宜谦.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 184,
+    "question": "小麦蠕孢叶斑根腐病用什么药剂效果好？",
+    "answer": "关于小麦蠕孢叶斑根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蠕孢叶斑根腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 185,
+    "question": "小麦细菌性条斑病对小麦有什么危害？",
+    "answer": "关于小麦细菌性条斑病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦细菌性条斑病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 186,
+    "question": "小麦麦角病在什么条件下容易发生？",
+    "answer": "关于小麦麦角病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦麦角病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 187,
+    "question": "小麦灰霉病如何防治？",
+    "answer": "选用抗灰霉病的品种。加强田间管量，提高抗病力。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 188,
+    "question": "如何识别小麦基腐病？",
+    "answer": "关于小麦基腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 189,
+    "question": "小麦基腐病的发病规律是什么？",
+    "answer": "关于小麦基腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 190,
+    "question": "小麦赤霉病发生特点及防控措施的传播途径是什么？",
+    "answer": "关于小麦赤霉病发生特点及防控措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生特点及防控措施_郭鑫莹.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 191,
+    "question": "小麦赤霉病的发生情况和防治对策在什么条件下容易发生？",
+    "answer": "关于小麦赤霉病的发生情况和防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的发生情况和防治对策_赵鹏.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 192,
+    "question": "如何识别小麦白粉病的发生与防控？",
+    "answer": "关于小麦白粉病的发生与防控的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病的发生与防控_杨亮.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 193,
+    "question": "小麦赤霉病发生原因与防治举措研究的传播途径是什么？",
+    "answer": "关于小麦赤霉病发生原因与防治举措研究的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生原因与防治举措研究_顾娟.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 194,
+    "question": "小麦赤霉病发病机理与流行规律及高效防控新技术的探索用什么药剂效果好？",
+    "answer": "关于小麦赤霉病发病机理与流行规律及高效防控新技术的探索的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病机理与流行规律及高效防控新技术的探索_姜岳栋.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 195,
+    "question": "小麦霜霉病防治措施的发病规律是什么？",
+    "answer": "关于小麦霜霉病防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦霜霉病防治措施_郑树森.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 196,
+    "question": "小麦病害主要危害小麦哪些部位？",
+    "answer": "关于小麦病害的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同施药处理对小麦两种病害防治效果的试验对比研究_李影.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 197,
+    "question": "小麦全蚀病的传播途径是什么？",
+    "answer": "关于小麦全蚀病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 198,
+    "question": "小麦白秆病如何防治？",
+    "answer": "检疫：加强检疫，严格防止病种子调入无病区域。农业防治：因地制宜。选用抗病品种。建立无病留种田，繁育无病良种。重病田或病残体多田块，要实行轮作，以减少菌源。物理防治：将种子在28～32℃水中预浸4小时后，再于52～53℃水中浸7～10分钟。浸种时要不断搅匀种子，浸后迅速将麦种放入冷水中散热，晾干后播种。药剂防治：①用种子总量的0.2%的25%三唑酮可湿性粉剂拌种，拌后闷种20天。或用种子重量的0.0",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 199,
+    "question": "小麦灰霉病的症状是什么？",
+    "answer": "该病从苗期到成熟期均可发病。叶片染病 初在基部叶片上现不规则水浸斑，拔节后叶尖先变黄，且下部叶片先发病，后逐渐向上蔓延。病部现水渍状斑，褪绿变黄，后形成褐色小斑，最后变为黑褐色枯死，其上产生白色霉状物，即病菌孢子梗和分子孢子。春季长期低温多雨条件下，穗部发病，颖壳变褐，生长后期病部可长出灰色霉层。\n病原物\n病原为灰葡萄孢 Botrytis cinerea Pers.ex Fr.，属半知菌亚门真菌。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 200,
+    "question": "小麦白粉病的发生与防控的主要症状有哪些？",
+    "answer": "关于小麦白粉病的发生与防控的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病的发生与防控_杨亮.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 201,
+    "question": "小麦黄矮病综合防控技术的防治措施是什么？",
+    "answer": "关于小麦黄矮病综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病综合防控技术_赵素丽.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 202,
+    "question": "小麦powdery用什么药剂效果好？",
+    "answer": "关于小麦powdery的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "powdery_mildew.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 203,
+    "question": "小麦根腐病在什么时期容易发病？",
+    "answer": "关于小麦根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦根腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 204,
+    "question": "小麦颖枯病的防治措施是什么？",
+    "answer": "关于小麦颖枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 205,
+    "question": "小麦雪腐病的症状是什么？",
+    "answer": "特点：\n早春积雪消融时开始发病，叶片呈水浸状，似开水烫过，柔软、颜色较深，呈暗绿色。湿度较大时，受害部位生有灰白色松软菌丝体。积雪融化后，天气晴朗时，冬麦病苗呈枯死状，病部可见许多大小、形状不等的黑色小菌核。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 206,
+    "question": "小麦丛矮病用什么药剂效果好？",
+    "answer": "关于小麦丛矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 207,
+    "question": "小麦雪霉叶枯病的发生与防治在什么条件下容易发生？",
+    "answer": "关于小麦雪霉叶枯病的发生与防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病的发生与防治_赵厚芹.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 208,
+    "question": "小麦梭条斑花叶病的防治措施是什么？",
+    "answer": "关于小麦梭条斑花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦梭条斑花叶病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 209,
+    "question": "如何识别小麦红矮病？",
+    "answer": "关于小麦红矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦红矮病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 210,
+    "question": "小麦雪霉叶枯病的发生与防治的防治措施是什么？",
+    "answer": "关于小麦雪霉叶枯病的发生与防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病的发生与防治_赵厚芹.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 211,
+    "question": "小麦白粉病与赤霉病的发生及防治的传播途径是什么？",
+    "answer": "关于小麦白粉病与赤霉病的发生及防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病与赤霉病的发生及防治_秦悦.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 212,
+    "question": "小麦黑节病对小麦有什么危害？",
+    "answer": "关于小麦黑节病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦黑节病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 213,
+    "question": "小麦条锈病主要危害小麦哪些部位？",
+    "answer": "关于小麦条锈病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦条锈病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 214,
+    "question": "小麦胞囊线虫病的防治措施是什么？",
+    "answer": "关于小麦胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 215,
+    "question": "小麦赤霉病发生特点及防控措施的防治措施是什么？",
+    "answer": "关于小麦赤霉病发生特点及防控措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生特点及防控措施_郭鑫莹.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 216,
+    "question": "如何识别小麦赤霉病的特点及防治方法？",
+    "answer": "关于小麦赤霉病的特点及防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的特点及防治方法_李瑞祥.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 217,
+    "question": "小麦全蚀病在什么时期容易发病？",
+    "answer": "关于小麦全蚀病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 218,
+    "question": "小麦链格孢叶枯病是什么病害？",
+    "answer": "小麦链格孢叶枯病在陕西、甘肃和河南等省均有发生，发病严重时，常导致叶枯，叶片大部死亡。\n病原物\n病原为小麦链格孢 Alternaria triticina Prasada and Prabhu，属半知菌亚门。\n形态：分生孢子梗直或弯曲。分生孢子单生或2～5个链状着生在分生孢子梗顶端。分生孢子宽卵形、椭圆形或棍棒状，黄褐色或深褐色，具3～8个横隔，0～5个纵隔或斜隔，分隔处缢缩。分生孢子大小(20～",
+    "ground_truth_docs": [
+      "小麦链格孢叶枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 219,
+    "question": "小麦基腐病发生规律及综合防治措施的防治措施是什么？",
+    "answer": "关于小麦基腐病发生规律及综合防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病发生规律及综合防治措施_孙苏阳.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 220,
+    "question": "小麦条锈病用什么药剂防治？",
+    "answer": "预处理\n生物种衣剂（菌根菌剂、农杆菌菌剂）使用剂量50～100 g/667 m²；化学种衣剂（福美双、代森锰锌、戊唑醇）使用剂量20～30 g/667 m²。\n（二）化学药物精准施用\n发病初期或高峰期施药：\n1. 硫悬浮剂：120～150 g/667 m²，兑水50 kg，每隔7～10天喷洒1次，连续2～3次\n2. 三唑酮：100～150 g/667 m²，兑水50 kg\n3. 腈菌唑：100～1",
+    "ground_truth_docs": [
+      "小麦条锈病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 221,
+    "question": "小麦leaf在什么时期容易发病？",
+    "answer": "关于小麦leaf的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "leaf_rust.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 222,
+    "question": "小麦白粉病对小麦有什么危害？",
+    "answer": "关于小麦白粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦白粉病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 223,
+    "question": "小麦秆枯病对小麦有什么危害？",
+    "answer": "关于小麦秆枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦秆枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 224,
+    "question": "小麦主要病害及综合防控技术的主要症状有哪些？",
+    "answer": "关于小麦主要病害及综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及综合防控技术_孙新华.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 225,
+    "question": "小麦赤霉病发病症状与防治方法的主要症状有哪些？",
+    "answer": "关于小麦赤霉病发病症状与防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病症状与防治方法_庞海龙.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 226,
+    "question": "小麦赤霉病发病症状与防治方法的传播途径是什么？",
+    "answer": "关于小麦赤霉病发病症状与防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病症状与防治方法_庞海龙.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 227,
+    "question": "小麦赤霉病发生特点及防控措施用什么药剂效果好？",
+    "answer": "关于小麦赤霉病发生特点及防控措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生特点及防控措施_郭鑫莹.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 228,
+    "question": "小麦霜霉病防治措施的主要症状有哪些？",
+    "answer": "关于小麦霜霉病防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦霜霉病防治措施_郑树森.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 229,
+    "question": "小麦条锈病对小麦有什么危害？",
+    "answer": "关于小麦条锈病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦条锈病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 230,
+    "question": "小麦禾谷胞囊线虫病在什么条件下容易发生？",
+    "answer": "关于小麦禾谷胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 231,
+    "question": "如何识别小麦禾谷胞囊线虫病？",
+    "answer": "关于小麦禾谷胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 232,
+    "question": "小麦斑枯病的发病规律是什么？",
+    "answer": "关于小麦斑枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦斑枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 233,
+    "question": "小麦leaf在什么条件下容易发生？",
+    "answer": "关于小麦leaf的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "leaf_rust.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 234,
+    "question": "小麦胞囊线虫病是什么病害？",
+    "answer": "小麦禾谷胞囊线虫是当前对小麦生产最有威胁性的线虫。此病仅发生于禾本科植物，主要为害小麦、大麦、燕麦、黑麦以及杂草、谷物等27属34种。\n为害症状\n受害小麦幼苗矮黄，根系短分叉，后期根系被寄生呈瘤状，露出白亮至暗褐色粉粒状胞囊，为该病的典型特征。胞囊老熟易脱落，胞囊仅在成虫期出现，故生产上常查不见胞囊而误诊。线虫为害后，病根常受次生性土壤真菌如立枯丝核菌等为害，致使根系腐烂。或与线虫共同为害，加重受",
+    "ground_truth_docs": [
+      "小麦胞囊线虫病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 235,
+    "question": "小麦黄矮病综合防控技术在什么时期容易发病？",
+    "answer": "关于小麦黄矮病综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病综合防控技术_赵素丽.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 236,
+    "question": "小麦赤霉病与白粉病的防治在什么条件下容易发生？",
+    "answer": "关于小麦赤霉病与白粉病的防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病与白粉病的防治_袁晓霞.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 237,
+    "question": "小麦基腐病的主要症状有哪些？",
+    "answer": "关于小麦基腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 238,
+    "question": "小麦腥黑穗病如何防治？",
+    "answer": "种子处理：播种前进行药剂拌种，药剂可选用33.5%喹啉铜悬乳剂，或25％三唑酮可湿性粉剂，或15％三唑醇可湿性粉剂，或50％拌种双可湿性粉剂，或50％萎锈灵可湿性粉剂，用量为种子重量的0.2％。也可用种子重量0.1％的2%戊唑醇可湿性粉剂拌种，或用种子重量0.3％的50％克菌丹可湿性粉剂，或70％敌克松可湿性粉剂拌种。此外，用种子重量用1％生石灰水浸种也有较好的防病效果，气温在35℃时浸种1天，2",
+    "ground_truth_docs": [
+      "小麦腥黑穗病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 239,
+    "question": "小麦赤霉病与白粉病的防治在什么时期容易发病？",
+    "answer": "关于小麦赤霉病与白粉病的防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病与白粉病的防治_袁晓霞.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 240,
+    "question": "小麦梭条斑花叶病在什么时期容易发病？",
+    "answer": "关于小麦梭条斑花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦梭条斑花叶病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 241,
+    "question": "小麦红矮病的发病规律是什么？",
+    "answer": "关于小麦红矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦红矮病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 242,
+    "question": "小麦主要病害及其防治主要危害小麦哪些部位？",
+    "answer": "关于小麦主要病害及其防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及其防治_李国俊.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 243,
+    "question": "小麦赤霉病在什么条件下容易发生？",
+    "answer": "关于小麦赤霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同杀菌剂对小麦赤霉病防治效果分析_马晓霞.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 244,
+    "question": "小麦散黑穗病主要危害小麦哪些部位？",
+    "answer": "关于小麦散黑穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦散黑穗病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 245,
+    "question": "小麦灰霉病对小麦有什么危害？",
+    "answer": "关于小麦灰霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 246,
+    "question": "小麦斑点病如何防治？",
+    "answer": "农业防治：①选用抗病品种是一项最为经济有效的防治措施。②山地要搞好农田基本建设，做好水土保持工作，提高施肥质量，增强小麦抗病力。③适时播种，严防早播，减少叶蝉传毒机会。④麦苗越冬期间作好镇压耙耱，使麦苗安全越冬并压埋清除带越冬卵的残茬，减少春季虫口。⑤精耕细作，及时清除田间杂草。麦收后及时深翻灭茬。化学防治：重点是杀虫防病，消灭田间叶蝉，喷10%吡虫啉可湿性粉剂2 000～2 500倍液，或40%",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 247,
+    "question": "小麦赤霉病的特点及防治方法的主要症状有哪些？",
+    "answer": "关于小麦赤霉病的特点及防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的特点及防治方法_李瑞祥.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 248,
+    "question": "小麦土传花叶病的发病规律是什么？",
+    "answer": "关于小麦土传花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦土传花叶病毒病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 249,
+    "question": "小麦蠕孢叶斑根腐病的发病规律是什么？",
+    "answer": "关于小麦蠕孢叶斑根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蠕孢叶斑根腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 250,
+    "question": "小麦fusarium的传播途径是什么？",
+    "answer": "关于小麦fusarium的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "fusarium_head_blight.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 251,
+    "question": "小麦黄矮病的发生与综合防控技术的传播途径是什么？",
+    "answer": "关于小麦黄矮病的发生与综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病的发生与综合防控技术_秦凯.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 252,
+    "question": "小麦雪霉叶枯病的防治措施是什么？",
+    "answer": "关于小麦雪霉叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 253,
+    "question": "小麦秆枯病用什么药剂效果好？",
+    "answer": "关于小麦秆枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦秆枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 254,
+    "question": "小麦粒线虫病对小麦有什么危害？",
+    "answer": "关于小麦粒线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 255,
+    "question": "小麦秆黑粉病的发病规律是什么？",
+    "answer": "关于小麦秆黑粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦秆黑粉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 256,
+    "question": "小麦丛矮病主要危害小麦哪些部位？",
+    "answer": "关于小麦丛矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 257,
+    "question": "小麦赤霉病的发生情况和防治对策主要危害小麦哪些部位？",
+    "answer": "关于小麦赤霉病的发生情况和防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的发生情况和防治对策_赵鹏.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 258,
+    "question": "小麦链格孢叶枯病的发病规律是什么？",
+    "answer": "关于小麦链格孢叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦链格孢叶枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 259,
+    "question": "小麦基腐病如何防治？",
+    "answer": "简介\n小麦基腐病可分为茎基腐、根腐、穗腐。该病一般在东北春麦区、西北地区危害较重。\n病原及危害症状\n发生规律\n小麦基腐病发病率随有效病原物、气候和小麦栽培方法而异。在20～24℃时前茬作物感病残体上真菌孢子大量形成，病原物扩散需要经常降雨，孢子形成、侵染需高湿，故降水多或高海拔地区凉爽、潮湿的春、秋季气候及暖冬气候都利于病害发生发展。\n影响发病的因素及条件\n品种因素\n易感病、偏春性的品种是小麦基腐",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 260,
+    "question": "小麦卷曲病在什么条件下容易发生？",
+    "answer": "关于小麦卷曲病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦卷曲病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 261,
+    "question": "小麦炭疽病的主要症状有哪些？",
+    "answer": "关于小麦炭疽病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 262,
+    "question": "如何识别小麦白粉病与赤霉病的发生及防治？",
+    "answer": "关于小麦白粉病与赤霉病的发生及防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病与赤霉病的发生及防治_秦悦.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 263,
+    "question": "小麦全蚀病在什么条件下容易发生？",
+    "answer": "关于小麦全蚀病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 264,
+    "question": "小麦leaf的防治措施是什么？",
+    "answer": "关于小麦leaf的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "leaf_rust.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 265,
+    "question": "小麦雪霉叶枯病的主要症状有哪些？",
+    "answer": "关于小麦雪霉叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 266,
+    "question": "小麦白粉病发生原因分析及防治技术推广主要危害小麦哪些部位？",
+    "answer": "关于小麦白粉病发生原因分析及防治技术推广的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发生原因分析及防治技术推广_李鹏.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 267,
+    "question": "小麦蠕孢叶斑根腐病对小麦有什么危害？",
+    "answer": "关于小麦蠕孢叶斑根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蠕孢叶斑根腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 268,
+    "question": "如何识别小麦斑点病？",
+    "answer": "关于小麦斑点病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 269,
+    "question": "小麦禾谷胞囊线虫病的主要症状有哪些？",
+    "answer": "关于小麦禾谷胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 270,
+    "question": "如何识别小麦白粉病发病原因及综合防治对策？",
+    "answer": "关于小麦白粉病发病原因及综合防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发病原因及综合防治对策_周荣.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 271,
+    "question": "小麦赤霉病的发生情况和防治对策的防治措施是什么？",
+    "answer": "关于小麦赤霉病的发生情况和防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的发生情况和防治对策_赵鹏.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 272,
+    "question": "小麦条锈病的发病原因是什么？",
+    "answer": "及减药防控技术\n简介\n病原菌生物学特性\n条锈菌是一种重要的小麦病原真菌，主要以菌丝体生活在小麦叶片中，形成长条形的黄锈斑。较低的温度（10～20℃）和高湿度有利于其生长和传播。条锈菌是一种异核生物，具有复杂的生活史，包括产生有性和无性孢子的阶段。\n发病规律\n一、周期性发病模式\n二、感染关键因素\n（一）宿主因素：小麦的生长阶段、品种特性和营养状况影响感染。\n（二）温度因素：10～20℃的温度范围最适",
+    "ground_truth_docs": [
+      "小麦条锈病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 273,
+    "question": "小麦斑枯病在什么条件下容易发生？",
+    "answer": "关于小麦斑枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦斑枯病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 274,
+    "question": "小麦sheath对小麦有什么危害？",
+    "answer": "关于小麦sheath的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "sheath_blight.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 275,
+    "question": "小麦胞囊线虫病在什么条件下容易发生？",
+    "answer": "关于小麦胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 276,
+    "question": "小麦红矮病在什么时期容易发病？",
+    "answer": "关于小麦红矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦红矮病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 277,
+    "question": "小麦黑节病的主要症状有哪些？",
+    "answer": "关于小麦黑节病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦黑节病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 278,
+    "question": "小麦主要病害及综合防控技术的防治措施是什么？",
+    "answer": "关于小麦主要病害及综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及综合防控技术_孙新华.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 279,
+    "question": "小麦fusarium的防治措施是什么？",
+    "answer": "关于小麦fusarium的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "fusarium_head_blight.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 280,
+    "question": "小麦丛矮病对小麦有什么危害？",
+    "answer": "关于小麦丛矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 281,
+    "question": "小麦leaf的主要症状有哪些？",
+    "answer": "关于小麦leaf的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "leaf_rust.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 282,
+    "question": "小麦链格孢叶枯病主要危害小麦哪些部位？",
+    "answer": "关于小麦链格孢叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦链格孢叶枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 283,
+    "question": "小麦黄矮病的发病规律是什么？",
+    "answer": "关于小麦黄矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 284,
+    "question": "小麦梭条斑花叶病对小麦有什么危害？",
+    "answer": "关于小麦梭条斑花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦梭条斑花叶病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 285,
+    "question": "小麦黄矮病的发生与综合防控技术在什么时期容易发病？",
+    "answer": "关于小麦黄矮病的发生与综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病的发生与综合防控技术_秦凯.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 286,
+    "question": "小麦主要病害及综合防控技术在什么条件下容易发生？",
+    "answer": "关于小麦主要病害及综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及综合防控技术_孙新华.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 287,
+    "question": "小麦白粉病的发生与防控在什么条件下容易发生？",
+    "answer": "关于小麦白粉病的发生与防控的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病的发生与防控_杨亮.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 288,
+    "question": "小麦秆枯病的传播途径是什么？",
+    "answer": "关于小麦秆枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦秆枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 289,
+    "question": "小麦powdery在什么条件下容易发生？",
+    "answer": "关于小麦powdery的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "powdery_mildew.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 290,
+    "question": "小麦基腐病对小麦有什么危害？",
+    "answer": "关于小麦基腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 291,
+    "question": "小麦赤霉病发生原因与防治举措研究主要危害小麦哪些部位？",
+    "answer": "关于小麦赤霉病发生原因与防治举措研究的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生原因与防治举措研究_顾娟.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 292,
+    "question": "小麦土传花叶病对小麦有什么危害？",
+    "answer": "关于小麦土传花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦土传花叶病毒病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 293,
+    "question": "小麦白秆病是什么病害？",
+    "answer": "小麦白秆病为害除为害小麦外，还能为害黑麦和小黑麦，并能侵染鹅观草和野燕麦。小麦受病后，轻者千粒重下降5%～20%，重者千粒重下降50%～70%，甚至绝收，对产量影响很大。小麦白秆病是青藏高原和一些与它有相似生态条件的高寒地区小麦上的一种重要病害。\n病原物\n病原为小麦壳月孢 Selenophoma tritici Liu，Guo et H.G.Liu，属半知菌亚门。形态：①分生孢子器。球形至扁球形，",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 294,
+    "question": "如何识别小麦白秆病国内外研究动态及防治对策？",
+    "answer": "关于小麦白秆病国内外研究动态及防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病国内外研究动态及防治对策_赵宜谦.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 295,
+    "question": "小麦sheath在什么条件下容易发生？",
+    "answer": "关于小麦sheath的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "sheath_blight.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 296,
+    "question": "小麦细菌性条斑病用什么药剂效果好？",
+    "answer": "关于小麦细菌性条斑病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦细菌性条斑病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 297,
+    "question": "小麦颖枯病是什么病害？",
+    "answer": "小麦颖枯病在我国冬、春麦区均有发生，以北方春麦区发生较重。一般叶片受害率为50％～98％，颖壳受害率为10％～80％。受害植株，穗粒数减少，籽粒皱缩干秕，出粉率降低，早期受害还可影响成穗率。一般减产1％～7％，严重者可达30％以上。\n为害症状\n主要为害小麦未成熟穗部和茎秆，也为害叶片和叶鞘。穗部。部分小穗颖壳上产生深褐色斑点，后扩展到整个颖壳，病斑枯白色，其上散生小黑点，即病原菌分生孢子器。发病严",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 298,
+    "question": "小麦赤霉病发病机理与流行规律及高效防控新技术的探索的主要症状有哪些？",
+    "answer": "关于小麦赤霉病发病机理与流行规律及高效防控新技术的探索的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病机理与流行规律及高效防控新技术的探索_姜岳栋.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 299,
+    "question": "小麦赤霉病流行关键环节：从病菌生态适应到防控策略的主要症状有哪些？",
+    "answer": "关于小麦赤霉病流行关键环节：从病菌生态适应到防控策略的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病流行关键环节：从病菌生态适应到防控策略_侯孟德.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 300,
+    "question": "小麦赤霉病发病症状与防治方法在什么时期容易发病？",
+    "answer": "关于小麦赤霉病发病症状与防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病症状与防治方法_庞海龙.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 301,
+    "question": "小麦纹枯病的防治措施的主要症状有哪些？",
+    "answer": "关于小麦纹枯病的防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦纹枯病的防治措施_武庆绪.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 302,
+    "question": "如何识别小麦黑节病？",
+    "answer": "关于小麦黑节病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦黑节病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 303,
+    "question": "小麦赤霉病发生特点及防控措施的发病规律是什么？",
+    "answer": "关于小麦赤霉病发生特点及防控措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生特点及防控措施_郭鑫莹.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 304,
+    "question": "如何识别小麦胞囊线虫病？",
+    "answer": "关于小麦胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 305,
+    "question": "小麦灰霉病是什么病害？",
+    "answer": "该病为四川成都、重庆、浙江等长江两岸地区小麦穗部的重要病害，严重的病穗率高达12%～29%。\n为害症状\n该病从苗期到成熟期均可发病。叶片染病 初在基部叶片上现不规则水浸斑，拔节后叶尖先变黄，且下部叶片先发病，后逐渐向上蔓延。病部现水渍状斑，褪绿变黄，后形成褐色小斑，最后变为黑褐色枯死，其上产生白色霉状物，即病菌孢子梗和分子孢子。春季长期低温多雨条件下，穗部发病，颖壳变褐，生长后期病部可长出灰色霉层",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 306,
+    "question": "小麦斑点病的发病规律是什么？",
+    "answer": "关于小麦斑点病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 307,
+    "question": "小麦蓝矮病是什么病害？",
+    "answer": "小麦蓝矮病是我国首次报道的小麦植原体病害，由介体条沙叶蝉专化性传播。该病害主要发生在西北干旱、半干旱地区的晚熟冬麦区，发病田块轻者减产20%～30%，重者绝收翻种，对小麦高产、稳产造成严重威胁。\n为害症状\n小麦冬前一般不表现症状，多在春季麦田返青后的拔节期，能见到明显症状。病株明显矮缩、畸形、节间越往上越矮缩，呈套叠状，造成叶片呈轮生状，基部叶片增生、变厚、呈暗绿色至绿蓝色，叶片挺直光滑，心叶多卷",
+    "ground_truth_docs": [
+      "小麦蓝矮病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 308,
+    "question": "小麦赤霉病的主要症状有哪些？",
+    "answer": "关于小麦赤霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同杀菌剂对小麦赤霉病防治效果分析_马晓霞.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 309,
+    "question": "小麦细菌性条斑病如何防治？",
+    "answer": "种子处理：用45℃水恒温浸种3小时，或用1%生石灰水在30℃下浸种24小时，晾干后播种。也可用种子重量0.2%的40%拌种双可湿性粉剂拌种。\n农业防治：选用抗病、耐病品种。春麦要种植生长期适中或偏长的品种。适时播种，冬麦不宜过早，采用配方施肥技术。\n药剂防治：发病前或发病初期可用72%农用硫酸链霉素可溶性粉剂3000倍液，或70%敌克松可湿性粉剂2000倍液，或20%噻森铜乳油500倍液，每隔7～",
+    "ground_truth_docs": [
+      "小麦细菌性条斑病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 310,
+    "question": "小麦赤霉病的特点及防治方法对小麦有什么危害？",
+    "answer": "关于小麦赤霉病的特点及防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的特点及防治方法_李瑞祥.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 311,
+    "question": "小麦霜霉病防治措施用什么药剂效果好？",
+    "answer": "关于小麦霜霉病防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦霜霉病防治措施_郑树森.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 312,
+    "question": "小麦根腐病的防治措施是什么？",
+    "answer": "关于小麦根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦根腐病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 313,
+    "question": "小麦白秆病用什么药剂效果好？",
+    "answer": "关于小麦白秆病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 314,
+    "question": "小麦赤霉病发病症状与防治方法在什么条件下容易发生？",
+    "answer": "关于小麦赤霉病发病症状与防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病症状与防治方法_庞海龙.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 315,
+    "question": "小麦全蚀病的发病规律是什么？",
+    "answer": "关于小麦全蚀病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 316,
+    "question": "小麦全蚀病用什么药剂效果好？",
+    "answer": "关于小麦全蚀病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 317,
+    "question": "小麦赤霉病的特点及防治方法的传播途径是什么？",
+    "answer": "关于小麦赤霉病的特点及防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的特点及防治方法_李瑞祥.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 318,
+    "question": "小麦雪腐病的发病规律是什么？",
+    "answer": "关于小麦雪腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 319,
+    "question": "小麦病害用什么药剂效果好？",
+    "answer": "关于小麦病害的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同施药处理对小麦两种病害防治效果的试验对比研究_李影.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 320,
+    "question": "小麦胞囊线虫病主要危害小麦哪些部位？",
+    "answer": "关于小麦胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 321,
+    "question": "小麦丛矮病的传播途径是什么？",
+    "answer": "关于小麦丛矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 322,
+    "question": "小麦麦角病的发病规律是什么？",
+    "answer": "关于小麦麦角病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦麦角病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 323,
+    "question": "小麦病害的防治措施是什么？",
+    "answer": "关于小麦病害的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同施药处理对小麦两种病害防治效果的试验对比研究_李影.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 324,
+    "question": "小麦根腐病的主要症状有哪些？",
+    "answer": "关于小麦根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦根腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 325,
+    "question": "小麦斑点病对小麦有什么危害？",
+    "answer": "关于小麦斑点病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 326,
+    "question": "小麦蠕孢叶斑根腐病的防治措施是什么？",
+    "answer": "关于小麦蠕孢叶斑根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蠕孢叶斑根腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 327,
+    "question": "如何识别小麦白粉病？",
+    "answer": "关于小麦白粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦白粉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 328,
+    "question": "小麦禾谷胞囊线虫病的传播途径是什么？",
+    "answer": "关于小麦禾谷胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 329,
+    "question": "如何识别小麦条锈病？",
+    "answer": "关于小麦条锈病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦条锈病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 330,
+    "question": "小麦麦角病的主要症状有哪些？",
+    "answer": "关于小麦麦角病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦麦角病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 331,
+    "question": "小麦红矮病对小麦有什么危害？",
+    "answer": "关于小麦红矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦红矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 332,
+    "question": "小麦根腐病如何防治？",
+    "answer": "对策\n分类和生物学特性\n小麦白秆病在田间发病后期及室内分离培养均能产生典型的分生孢子器，经鉴定属半知菌类、球壳孢科的壳月孢属，分生孢子为新月形。小麦白秆病菌在0～20℃之间培养，以5、10℃菌种发育最好，25℃生长严重受抑制，30℃完全停止生长而死亡，证明该菌是典型低温侵染菌。\n品种抗病性\n从大量研究报道证实，由国外引进原始材料及其应用这些材料育成的杂交后代和直接引种的国外品种均不抗病，而农家品种",
+    "ground_truth_docs": [
+      "小麦根腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 333,
+    "question": "小麦雪霉叶枯病的发生与防治对小麦有什么危害？",
+    "answer": "关于小麦雪霉叶枯病的发生与防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病的发生与防治_赵厚芹.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 334,
+    "question": "小麦雪霉叶枯病对小麦有什么危害？",
+    "answer": "关于小麦雪霉叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 335,
+    "question": "小麦胞囊线虫病用什么药剂效果好？",
+    "answer": "关于小麦胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 336,
+    "question": "小麦禾谷胞囊线虫病用什么药剂效果好？",
+    "answer": "关于小麦禾谷胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 337,
+    "question": "小麦赤霉病的发病原因是什么？",
+    "answer": "。\n症状特点：\n白粉病一般发生在苗期及成株期，初期感染小麦的下部叶片，后期逐步转移到中上部叶片，进而影响植株正常生长。起初叶背面出现1～2 mm的白色小点，随后逐渐融合为白色霉斑，近圆形，甚至会以2 mm的厚度覆盖整个叶片；发病后期病部霉层变成灰白色至浅褐色。在孕穗、抽穗阶段，白粉病发病率达到10%，严重时小麦田块可减产20%～30%。",
+    "ground_truth_docs": [
+      "小麦赤霉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 338,
+    "question": "小麦秆枯病的主要症状有哪些？",
+    "answer": "关于小麦秆枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦秆枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 339,
+    "question": "小麦sheath主要危害小麦哪些部位？",
+    "answer": "关于小麦sheath的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "sheath_blight.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 340,
+    "question": "小麦丛矮病是什么病害？",
+    "answer": "小麦丛矮病是由灰飞虱传播的病毒病，其发生规律与田间灰飞虱的种群数量有关。近年来，小麦丛矮病在河北省邢台市各小麦种植区均有不同程度的发生，对邢台市小麦生产已构成潜在威胁。\n发生规律\n小麦丛矮病病原物为北方禾谷花叶病毒，由媒介灰飞虱传毒。带毒灰飞虱取食小麦植株后，可致健康植株发病。病株表现为叶脉褪绿黄化，植株矮化，分蘖增多，呈丛矮状。越冬前感染病株大多不能越冬而死亡；返青后感染病株大多分蘖增多，长势弱",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 341,
+    "question": "小麦蓝矮病在什么条件下容易发生？",
+    "answer": "关于小麦蓝矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蓝矮病毒病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 342,
+    "question": "如何识别小麦病害？",
+    "answer": "关于小麦病害的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同施药处理对小麦两种病害防治效果的试验对比研究_李影.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 343,
+    "question": "小麦基腐病的防治措施是什么？",
+    "answer": "关于小麦基腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 344,
+    "question": "小麦纹枯病用什么药剂防治？",
+    "answer": "30毫升，加入适量水稀释后均匀拌种，晾干后即可播种。\n土壤处理\n对于连作超过5年的地块，播种前每亩撒施50％多菌灵可湿性粉剂2～3公斤，结合旋耕翻入15～20厘米深的土层中进行土壤消毒。若为秸秆还田地块，还应额外增施拮抗木霉等兼具腐熟与抗病功能的腐熟剂，每亩用量2～3公斤，以加速秸秆分解、抑制病原菌繁殖。\n二、农艺措施优化\n合理密植\n每亩基本苗控制在18万～22万株，行距25～30厘米，减少株间遮",
+    "ground_truth_docs": [
+      "小麦纹枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 345,
+    "question": "小麦白粉病发病原因及综合防治对策的发病规律是什么？",
+    "answer": "关于小麦白粉病发病原因及综合防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发病原因及综合防治对策_周荣.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 346,
+    "question": "小麦白粉病与赤霉病的发生及防治主要危害小麦哪些部位？",
+    "answer": "关于小麦白粉病与赤霉病的发生及防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病与赤霉病的发生及防治_秦悦.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 347,
+    "question": "小麦雪霉叶枯病的传播途径是什么？",
+    "answer": "关于小麦雪霉叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 348,
+    "question": "小麦秆枯病的防治措施是什么？",
+    "answer": "关于小麦秆枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦秆枯病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 349,
+    "question": "小麦黄矮病在什么条件下容易发生？",
+    "answer": "关于小麦黄矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 350,
+    "question": "小麦红矮病的主要症状有哪些？",
+    "answer": "关于小麦红矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦红矮病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 351,
+    "question": "小麦黄矮病的发生与综合防控技术主要危害小麦哪些部位？",
+    "answer": "关于小麦黄矮病的发生与综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病的发生与综合防控技术_秦凯.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 352,
+    "question": "小麦秆锈病是什么病害？",
+    "answer": "小麦秆锈病为害小麦、大麦。流行年份病害发展迅速，为害重，可在短期内造成较大的损失。主要发生在华东沿海、长江流域、南方冬麦区及东北、华北的内蒙古、西北春麦区。\n为害症状\n主要为害叶鞘、茎秆及叶片基部，严重时在麦穗的颖片和芒上面也有发生。病部初形成条斑，后逐渐形成隆起的疱疹斑，即夏孢子堆。夏孢子堆比条锈病和叶锈病的大，呈长椭圆形，深褐色，排列不规则，表皮很早破裂并外翻，大量的夏孢子向外扩散。小麦成熟前",
+    "ground_truth_docs": [
+      "小麦秆锈病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 353,
+    "question": "小麦黄花叶病的症状是什么？",
+    "answer": "病苗新生的叶片出现褪绿或扭曲现象。病苗过冬后，先从心叶叶尖或下一片叶中部开始褪绿，扭曲，在嫩叶上出现淡绿色至橙黄色梭形斑，不久后变成黄色或淡绿色不连续的短条状病斑，并逐渐扩大成黄绿相间的斑驳，或不规则条纹。病株株型松散矮小，穗短小，有的穗轴弯曲，形成畸形穗，子粒不饱满。\n病原物\n病原为小麦梭条斑花叶病毒Wheat spindle streak mosaic virus，简称WSSMV。病毒粒体线状",
+    "ground_truth_docs": [
+      "小麦黄花叶病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 354,
+    "question": "小麦胞囊线虫病的症状是什么？",
+    "answer": "受害小麦幼苗矮黄，根系短分叉，后期根系被寄生呈瘤状，露出白亮至暗褐色粉粒状胞囊，为该病的典型特征。胞囊老熟易脱落，胞囊仅在成虫期出现，故生产上常查不见胞囊而误诊。线虫为害后，病根常受次生性土壤真菌如立枯丝核菌等为害，致使根系腐烂。或与线虫共同为害，加重受害程度，致地上部矮小，发黄，似缺少营养或缺水状，应注意区别。\n侵染循环\n年生一代。土温9℃以上时有利于线虫孵化和侵入寄主。以2龄幼虫侵入幼嫩根尖，",
+    "ground_truth_docs": [
+      "小麦胞囊线虫病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 355,
+    "question": "如何识别小麦主要病害及综合防控技术？",
+    "answer": "关于小麦主要病害及综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及综合防控技术_孙新华.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 356,
+    "question": "小麦powdery对小麦有什么危害？",
+    "answer": "关于小麦powdery的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "powdery_mildew.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 357,
+    "question": "小麦蜜穗病在什么时期容易发病？",
+    "answer": "关于小麦蜜穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦蜜穗病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 358,
+    "question": "小麦蜜穗病的传播途径是什么？",
+    "answer": "关于小麦蜜穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦蜜穗病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 359,
+    "question": "小麦土传花叶病在什么时期容易发病？",
+    "answer": "关于小麦土传花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦土传花叶病毒病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 360,
+    "question": "小麦fusarium在什么条件下容易发生？",
+    "answer": "关于小麦fusarium的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "fusarium_head_blight.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 361,
+    "question": "小麦秆黑粉病在什么条件下容易发生？",
+    "answer": "关于小麦秆黑粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦秆黑粉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 362,
+    "question": "小麦细菌性条斑病的传播途径是什么？",
+    "answer": "关于小麦细菌性条斑病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦细菌性条斑病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 363,
+    "question": "小麦蜜穗病主要危害小麦哪些部位？",
+    "answer": "关于小麦蜜穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦蜜穗病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 364,
+    "question": "小麦赤霉病用什么药剂效果好？",
+    "answer": "关于小麦赤霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同杀菌剂对小麦赤霉病防治效果分析_马晓霞.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 365,
+    "question": "小麦雪腐病的主要症状有哪些？",
+    "answer": "关于小麦雪腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 366,
+    "question": "小麦丛矮病的发病规律是什么？",
+    "answer": "关于小麦丛矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 367,
+    "question": "小麦叶锈病如何防治？",
+    "answer": "一、选用抗病品种：选择当地推广的抗叶锈病品种。\n二、农业防治：合理施肥，增强植株抗性；清除田间病残体；适期播种。\n三、化学防治：发病初期喷施三唑类杀菌剂。",
+    "ground_truth_docs": [
+      "小麦叶锈病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 368,
+    "question": "小麦黄花叶病如何防治？",
+    "answer": "：品种间抗病性差异明显。土温15℃左右，土壤湿度较大，有利于发病。高于20℃或干旱，很少发病。播种早，发病重，播种迟发病轻。土壤缺肥，重茬种植，发病较重。\n防治方法\n选用抗病、耐病品种。与非寄主作物进行多年轮作。冬麦适时迟播，避开传毒介体的最适侵染时期。增施基肥，合理密植。发病后适当追肥，可减少死苗，减轻黄化程度，减少损失。",
+    "ground_truth_docs": [
+      "小麦黄花叶病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 369,
+    "question": "小麦黑节病的传播途径是什么？",
+    "answer": "关于小麦黑节病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦黑节病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 370,
+    "question": "小麦炭疽病的传播途径是什么？",
+    "answer": "关于小麦炭疽病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 371,
+    "question": "小麦赤霉病的发生情况和防治对策对小麦有什么危害？",
+    "answer": "关于小麦赤霉病的发生情况和防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的发生情况和防治对策_赵鹏.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 372,
+    "question": "小麦霜霉病的症状是什么？",
+    "answer": "和诊断方法\n主要以侵染叶和茎为主。植株黄化萎缩，剑叶、穗部畸形。苗期发病，麦苗萎缩，叶色深绿并有轻微的条纹状花叶，分蘖稍有增多；拔节以后，病株矮化明显，节间缩短而使叶片重叠，叶色呈深绿并出现变宽变长，柔软下垂，有时皱褶或扭曲，心叶则呈黄白色；孕穗以后，病株矮缩，高度常不及健株的2/3，重病株常不能孕穗并在抽穗期死去，轻病株即便能孕穗，也不能正常抽穗。穗包裹于旗叶鞘中，或从旗叶鞘侧面拱出，弯曲成龙头",
+    "ground_truth_docs": [
+      "小麦霜霉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 373,
+    "question": "小麦黄矮病的发生与综合防控技术的防治措施是什么？",
+    "answer": "关于小麦黄矮病的发生与综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病的发生与综合防控技术_秦凯.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 374,
+    "question": "小麦红矮病的传播途径是什么？",
+    "answer": "关于小麦红矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦红矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 375,
+    "question": "小麦蓝矮病如何防治？",
+    "answer": "尽快组织力量选育抗蓝矮病的抗病小麦新品种。原来地方品种均感病。近年引进的钱交麦、2711则表现高度抗病。\n其他方法参见小麦红矮病。",
+    "ground_truth_docs": [
+      "小麦蓝矮病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 376,
+    "question": "小麦黄花叶病是什么病害？",
+    "answer": "小麦梭条斑花叶病是一种土传病毒性病害，发病植株有效穗减少，穗形变小，粒重减轻，减产10％～20％，严重时可达70％以上。\n为害症状\n病苗新生的叶片出现褪绿或扭曲现象。病苗过冬后，先从心叶叶尖或下一片叶中部开始褪绿，扭曲，在嫩叶上出现淡绿色至橙黄色梭形斑，不久后变成黄色或淡绿色不连续的短条状病斑，并逐渐扩大成黄绿相间的斑驳，或不规则条纹。病株株型松散矮小，穗短小，有的穗轴弯曲，形成畸形穗，子粒不饱满",
+    "ground_truth_docs": [
+      "小麦黄花叶病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 377,
+    "question": "小麦秆锈病如何防治？",
+    "answer": "农业防治：\n①因地制宜地选用抗病品种。注意品种搭配和轮换种植，避免长期单一种植某一品种。\n②适期播种，防止播种过早过晚，合理密植。\n③施足基肥，增施磷钾肥，巧施追肥，切忌氮肥偏多偏晚。小麦生育后期用4.5～7.5kg/hm²磷酸二氢钾加水750kg，叶面喷施，可以防止叶片早衰，减轻锈病为害。多雨时注意排水降湿，发病后，应及时灌水。\n④消除自生麦苗有助减轻锈病为害。\n化学防治：\n①用25%三唑酮可湿",
+    "ground_truth_docs": [
+      "小麦秆锈病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 378,
+    "question": "小麦胞囊线虫病用什么药剂防治？",
+    "answer": "处理：用50%甲基对硫磷或甲基异柳磷，按种子量0.2%拌闷种子。每100kg种子用药200g对水20kg，混匀后，堆50cm厚，闷种4小时，即可播种。\n药剂防治：每亩施用3%万强颗粒剂200g，也可用24%万强水剂600倍液在小麦返青时喷雾。",
+    "ground_truth_docs": [
+      "小麦胞囊线虫病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 379,
+    "question": "小麦黄矮病综合防控技术的传播途径是什么？",
+    "answer": "关于小麦黄矮病综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病综合防控技术_赵素丽.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 380,
+    "question": "小麦白秆病国内外研究动态及防治对策在什么时期容易发病？",
+    "answer": "关于小麦白秆病国内外研究动态及防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病国内外研究动态及防治对策_赵宜谦.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 381,
+    "question": "小麦蠕孢叶斑根腐病在什么条件下容易发生？",
+    "answer": "关于小麦蠕孢叶斑根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蠕孢叶斑根腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 382,
+    "question": "小麦白粉病的症状是什么？",
+    "answer": "赤霉病是一种气候性和真菌性的病害，对穗部的为害较大，不同染病部位的症状不同，主要包括以下几种。\n（一）穗腐\n穗腐主要出现在小麦扬花期之后，发病后症状明显，穗部颖片会出现水渍状、淡褐色的病斑，之后逐渐蔓延，导致小麦穗部逐渐干枯。穗轴染病后，会导致小麦养分和水分的输送能力下降，影响上部小穗的生长，从而形成白穗。随着病情的扩散和蔓延，遇到潮湿的条件时，患病部位会出现霉层，容易导致籽粒干瘪和瘦小。\n（二）",
+    "ground_truth_docs": [
+      "小麦白粉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 383,
+    "question": "小麦纹枯病的防治措施用什么药剂效果好？",
+    "answer": "关于小麦纹枯病的防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦纹枯病的防治措施_武庆绪.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 384,
+    "question": "小麦黄矮病综合防控技术用什么药剂效果好？",
+    "answer": "关于小麦黄矮病综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病综合防控技术_赵素丽.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 385,
+    "question": "小麦纹枯病如何防治？",
+    "answer": "简介\n小麦纹枯病是一种由真菌引起的常见病害，具有隐蔽性强、危害期长和损失严重等特点，小麦从苗期至成熟期均可能造成危害。该病主要侵染叶鞘和茎秆，发病初期，在叶鞘形成椭圆形或梭形的淡褐色至深褐色病斑，中间灰白、边缘清晰；随着病情的发展，茎秆可发生褐变腐烂甚至折断，导致麦穗灌浆不足、籽粒干瘪，严重时可能出现枯孕穗、白穗甚至整株死亡，不仅严重影响小麦的产量和品质，还会增加种植成本并破坏农田生态。该病害在温",
+    "ground_truth_docs": [
+      "小麦纹枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 386,
+    "question": "小麦黑节病用什么药剂效果好？",
+    "answer": "关于小麦黑节病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦黑节病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 387,
+    "question": "小麦雪霉叶枯病是什么病害？",
+    "answer": "小麦雪霉叶枯病又称小麦叶斑病、小麦雪腐叶斑病、小麦镰刀轮斑病等，是积雪时间较长的冬小麦产区的常见病害，最早在北欧、亚洲及北美等地发生。该病最早在我国新疆北部被发现，后陕西相继发生，近年来江西、江苏等省均有发现。\n病源\n小麦雪霉叶枯病病菌为雪腐格氏霉[Gerlachia nivalis（Ces.ex Sacc.）Gams and Mull.]，属半知菌亚门真菌。病菌的分生孢子座于病叶上产生，后形成新",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 388,
+    "question": "小麦散黑穗病的主要症状有哪些？",
+    "answer": "关于小麦散黑穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦散黑穗病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 389,
+    "question": "小麦条锈病的发病规律是什么？",
+    "answer": "关于小麦条锈病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦条锈病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 390,
+    "question": "小麦赤霉病的发生情况和防治对策的发病规律是什么？",
+    "answer": "关于小麦赤霉病的发生情况和防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的发生情况和防治对策_赵鹏.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 391,
+    "question": "小麦白秆病国内外研究动态及防治对策的发病规律是什么？",
+    "answer": "关于小麦白秆病国内外研究动态及防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病国内外研究动态及防治对策_赵宜谦.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 392,
+    "question": "小麦卷曲病用什么药剂效果好？",
+    "answer": "关于小麦卷曲病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦卷曲病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 393,
+    "question": "小麦赤霉病发病机理与流行规律及高效防控新技术的探索主要危害小麦哪些部位？",
+    "answer": "关于小麦赤霉病发病机理与流行规律及高效防控新技术的探索的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病机理与流行规律及高效防控新技术的探索_姜岳栋.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 394,
+    "question": "小麦白粉病的发病规律是什么？",
+    "answer": "关于小麦白粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦白粉病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 395,
+    "question": "小麦白粉病发生原因分析及防治技术推广的防治措施是什么？",
+    "answer": "关于小麦白粉病发生原因分析及防治技术推广的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发生原因分析及防治技术推广_李鹏.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 396,
+    "question": "小麦白粉病发生原因分析及防治技术推广的传播途径是什么？",
+    "answer": "关于小麦白粉病发生原因分析及防治技术推广的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发生原因分析及防治技术推广_李鹏.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 397,
+    "question": "小麦卷曲病在什么时期容易发病？",
+    "answer": "关于小麦卷曲病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦卷曲病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 398,
+    "question": "小麦黄矮病如何防治？",
+    "answer": "选用抗病、耐病品种：因地制宜选用抗病品种是防治小麦黄矮病最经济有效的措施。\n适期播种：冬麦区适期迟播，春麦区适当早播，减少蚜虫传毒机会。\n合理密植：确定合理密度，加强肥水管理，提高植株抗病力。\n清除杂草：及时铲除田间及附近杂草，减少蚜虫栖息场所和毒源。\n田间管理：冬前镇压、冬灌、返青后耙耱可有效减少蚜虫数量，减轻发病。\n化学防治\n种子处理：播种前用辛硫磷拌种，预防苗期蚜虫为害。\n喷药防护：对麦田和",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 399,
+    "question": "小麦麦角病的传播途径是什么？",
+    "answer": "关于小麦麦角病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦麦角病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 400,
+    "question": "小麦蠕孢叶斑根腐病在什么时期容易发病？",
+    "answer": "关于小麦蠕孢叶斑根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蠕孢叶斑根腐病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 401,
+    "question": "小麦leaf的发病规律是什么？",
+    "answer": "关于小麦leaf的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "leaf_rust.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 402,
+    "question": "小麦赤霉病与白粉病的防治的主要症状有哪些？",
+    "answer": "关于小麦赤霉病与白粉病的防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病与白粉病的防治_袁晓霞.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 403,
+    "question": "小麦斑枯病主要危害小麦哪些部位？",
+    "answer": "关于小麦斑枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦斑枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 404,
+    "question": "小麦白粉病发病原因及综合防治对策对小麦有什么危害？",
+    "answer": "关于小麦白粉病发病原因及综合防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发病原因及综合防治对策_周荣.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 405,
+    "question": "小麦雪霉叶枯病在什么条件下容易发生？",
+    "answer": "关于小麦雪霉叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 406,
+    "question": "小麦赤霉病与白粉病的防治主要危害小麦哪些部位？",
+    "answer": "关于小麦赤霉病与白粉病的防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病与白粉病的防治_袁晓霞.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 407,
+    "question": "小麦白粉病是什么病害？",
+    "answer": "小麦在我国的种植范围广，其产量直接影响我国的粮食安全。如果田间水肥管理不科学和播种密度过大，很容易引发小麦赤霉病和白粉病，导致小麦减产。赤霉病是一种真菌性和气候性的病害，发病后会严重影响小麦正常生长，导致小麦籽粒腐烂变质、产量下降。白粉病发生范围广、为害性大，也会影响小麦的产量和质量。\n赤霉病",
+    "ground_truth_docs": [
+      "小麦白粉病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 408,
+    "question": "小麦赤霉病发生原因与防治举措研究的发病规律是什么？",
+    "answer": "关于小麦赤霉病发生原因与防治举措研究的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生原因与防治举措研究_顾娟.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 409,
+    "question": "小麦霜霉病如何防治？",
+    "answer": "简介\n小麦霜霉病又称黄化萎缩病。由藻状菌纲指疫霉属霜霉菌侵染引起的一种真菌病害。主要为害麦类，亦可侵染玉米、高粱、水稻等多种禾本科作物及看麦娘、稗草、马唐等多种禾本科杂草。我国主要分布在长江中、下游麦区，以及西北、华北、西南和西藏高原等麦区，一般造成减产达10% ~ 20%。\n症状和诊断方法\n主要以侵染叶和茎为主。植株黄化萎缩，剑叶、穗部畸形。苗期发病，麦苗萎缩，叶色深绿并有轻微的条纹状花叶，分蘖",
+    "ground_truth_docs": [
+      "小麦霜霉病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 410,
+    "question": "小麦胞囊线虫病如何防治？",
+    "answer": "加强植物检疫，严禁随意调运种子，防止此病扩散蔓延。\n因地制宜选用抗(耐)病品种。\n改善耕作制度。与其他麦类及禾谷类作物隔年或3年轮作；春麦区适当晚播。\n加强田间管理。要平衡施肥，提高植株抵抗力；施用土壤添加剂，控制根际微生态环境，使其不利于线虫生长和寄生。\n种子处理：\n①清水选：麦种倒入清水中迅速搅动，虫瘿上浮却捞出，可汰除95%虫瘿。整个操作争取在10分钟内完成，防止虫瘿吸水下沉。\n②盐水选：用",
+    "ground_truth_docs": [
+      "小麦胞囊线虫病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 411,
+    "question": "如何识别小麦蠕孢叶斑根腐病？",
+    "answer": "关于小麦蠕孢叶斑根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蠕孢叶斑根腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 412,
+    "question": "如何识别小麦主要病害及其防治？",
+    "answer": "关于小麦主要病害及其防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及其防治_李国俊.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 413,
+    "question": "小麦粒线虫病在什么时期容易发病？",
+    "answer": "关于小麦粒线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 414,
+    "question": "小麦白粉病与赤霉病的发生及防治对小麦有什么危害？",
+    "answer": "关于小麦白粉病与赤霉病的发生及防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病与赤霉病的发生及防治_秦悦.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 415,
+    "question": "小麦赤霉病流行关键环节：从病菌生态适应到防控策略主要危害小麦哪些部位？",
+    "answer": "关于小麦赤霉病流行关键环节：从病菌生态适应到防控策略的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病流行关键环节：从病菌生态适应到防控策略_侯孟德.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 416,
+    "question": "小麦蜜穗病用什么药剂效果好？",
+    "answer": "关于小麦蜜穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦蜜穗病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 417,
+    "question": "小麦斑点病用什么药剂效果好？",
+    "answer": "关于小麦斑点病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 418,
+    "question": "小麦全蚀病防治技术要点的发病规律是什么？",
+    "answer": "关于小麦全蚀病防治技术要点的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病防治技术要点_孙香脂.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 419,
+    "question": "小麦蓝矮病的症状是什么？",
+    "answer": "小麦冬前一般不表现症状，多在春季麦田返青后的拔节期，能见到明显症状。病株明显矮缩、畸形、节间越往上越矮缩，呈套叠状，造成叶片呈轮生状，基部叶片增生、变厚、呈暗绿色至绿蓝色，叶片挺直光滑，心叶多卷曲变黄后坏死。成株期，上部叶片形成黄色不规则的宽条带状，多不能正常拔节或抽穗，即使能抽穗，则穗呈塔状退化，穗短小，向上尖削。染病重的生长停滞，显症后1个月即枯死，根毛明显减少。\n病原物\n病原为Mycopla",
+    "ground_truth_docs": [
+      "小麦蓝矮病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 420,
+    "question": "小麦梭条斑花叶病的发病规律是什么？",
+    "answer": "关于小麦梭条斑花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦梭条斑花叶病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 421,
+    "question": "小麦赤霉病发生原因与防治举措研究在什么时期容易发病？",
+    "answer": "关于小麦赤霉病发生原因与防治举措研究的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生原因与防治举措研究_顾娟.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 422,
+    "question": "小麦条锈病的传播途径是什么？",
+    "answer": "关于小麦条锈病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦条锈病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 423,
+    "question": "小麦麦角病主要危害小麦哪些部位？",
+    "answer": "关于小麦麦角病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦麦角病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 424,
+    "question": "小麦赤霉病发病机理与流行规律及高效防控新技术的探索在什么条件下容易发生？",
+    "answer": "关于小麦赤霉病发病机理与流行规律及高效防控新技术的探索的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病机理与流行规律及高效防控新技术的探索_姜岳栋.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 425,
+    "question": "小麦颖枯病在什么时期容易发病？",
+    "answer": "关于小麦颖枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 426,
+    "question": "小麦炭疽病用什么药剂效果好？",
+    "answer": "关于小麦炭疽病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 427,
+    "question": "小麦雪霉叶枯病的发生与防治的发病规律是什么？",
+    "answer": "关于小麦雪霉叶枯病的发生与防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病的发生与防治_赵厚芹.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 428,
+    "question": "小麦土传花叶病的传播途径是什么？",
+    "answer": "关于小麦土传花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦土传花叶病毒病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 429,
+    "question": "小麦黄矮病综合防控技术主要危害小麦哪些部位？",
+    "answer": "关于小麦黄矮病综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病综合防控技术_赵素丽.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 430,
+    "question": "小麦炭疽病如何防治？",
+    "answer": "：杂草多的连作地，肥料不足、土壤碱性地块利于发病。寄主抗性。小麦品种间抗病性差异明显。\n防治方法\n选用抗炭疽病的小麦品种。与非禾本科作物进行3年以上轮作。收获后及时清除病残体或深翻。发病重的地区或地块，可喷洒50%苯菌灵可湿性粉剂1500倍液或25%苯菌灵乳油800倍液，防治1次或15天后再防一次。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 431,
+    "question": "小麦黄矮病综合防控技术在什么条件下容易发生？",
+    "answer": "关于小麦黄矮病综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病综合防控技术_赵素丽.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 432,
+    "question": "小麦蓝矮病在什么时期容易发病？",
+    "answer": "关于小麦蓝矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蓝矮病毒病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 433,
+    "question": "小麦白秆病的主要症状有哪些？",
+    "answer": "关于小麦白秆病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 434,
+    "question": "小麦纹枯病的防治措施对小麦有什么危害？",
+    "answer": "关于小麦纹枯病的防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦纹枯病的防治措施_武庆绪.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 435,
+    "question": "小麦斑点病的防治措施是什么？",
+    "answer": "关于小麦斑点病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 436,
+    "question": "小麦powdery的发病规律是什么？",
+    "answer": "关于小麦powdery的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "powdery_mildew.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 437,
+    "question": "小麦散黑穗病用什么药剂效果好？",
+    "answer": "关于小麦散黑穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦散黑穗病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 438,
+    "question": "小麦秆锈病的症状是什么？",
+    "answer": "主要为害叶鞘、茎秆及叶片基部，严重时在麦穗的颖片和芒上面也有发生。病部初形成条斑，后逐渐形成隆起的疱疹斑，即夏孢子堆。夏孢子堆比条锈病和叶锈病的大，呈长椭圆形，深褐色，排列不规则，表皮很早破裂并外翻，大量的夏孢子向外扩散。小麦成熟前，在夏孢子堆中或其附近产生长椭圆形或长条形的黑色冬孢子堆，后期表皮破裂。发生在叶片上的秆锈病孢子堆可穿透叶片，在背面也出现相同的症状，且叶片背面的孢子堆都比正面的大。\n",
+    "ground_truth_docs": [
+      "小麦秆锈病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 439,
+    "question": "小麦白粉病发生原因分析及防治技术推广在什么时期容易发病？",
+    "answer": "关于小麦白粉病发生原因分析及防治技术推广的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发生原因分析及防治技术推广_李鹏.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 440,
+    "question": "小麦主要病害及其防治在什么条件下容易发生？",
+    "answer": "关于小麦主要病害及其防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及其防治_李国俊.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 441,
+    "question": "小麦基腐病发生规律及综合防治措施的主要症状有哪些？",
+    "answer": "关于小麦基腐病发生规律及综合防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病发生规律及综合防治措施_孙苏阳.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 442,
+    "question": "小麦蜜穗病在什么条件下容易发生？",
+    "answer": "关于小麦蜜穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦蜜穗病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 443,
+    "question": "小麦赤霉病发生特点及防控措施在什么时期容易发病？",
+    "answer": "关于小麦赤霉病发生特点及防控措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生特点及防控措施_郭鑫莹.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 444,
+    "question": "小麦黄矮病综合防控技术的发病规律是什么？",
+    "answer": "关于小麦黄矮病综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病综合防控技术_赵素丽.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 445,
+    "question": "小麦雪腐病用什么药剂效果好？",
+    "answer": "关于小麦雪腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 446,
+    "question": "小麦白粉病与赤霉病的发生及防治的发病规律是什么？",
+    "answer": "关于小麦白粉病与赤霉病的发生及防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病与赤霉病的发生及防治_秦悦.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 447,
+    "question": "小麦炭疽病对小麦有什么危害？",
+    "answer": "关于小麦炭疽病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 448,
+    "question": "小麦全蚀病防治技术要点对小麦有什么危害？",
+    "answer": "关于小麦全蚀病防治技术要点的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病防治技术要点_孙香脂.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 449,
+    "question": "小麦蠕孢叶斑根腐病主要危害小麦哪些部位？",
+    "answer": "关于小麦蠕孢叶斑根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蠕孢叶斑根腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 450,
+    "question": "小麦病害在什么条件下容易发生？",
+    "answer": "关于小麦病害的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同施药处理对小麦两种病害防治效果的试验对比研究_李影.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 451,
+    "question": "小麦基腐病发生规律及综合防治措施在什么条件下容易发生？",
+    "answer": "关于小麦基腐病发生规律及综合防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病发生规律及综合防治措施_孙苏阳.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 452,
+    "question": "小麦蜜穗病的防治措施是什么？",
+    "answer": "关于小麦蜜穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦蜜穗病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 453,
+    "question": "小麦卷曲病主要危害小麦哪些部位？",
+    "answer": "关于小麦卷曲病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦卷曲病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 454,
+    "question": "小麦fusarium的发病规律是什么？",
+    "answer": "关于小麦fusarium的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "fusarium_head_blight.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 455,
+    "question": "小麦fusarium用什么药剂效果好？",
+    "answer": "关于小麦fusarium的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "fusarium_head_blight.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 456,
+    "question": "小麦雪霉叶枯病的发生与防治的主要症状有哪些？",
+    "answer": "关于小麦雪霉叶枯病的发生与防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病的发生与防治_赵厚芹.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 457,
+    "question": "小麦主要病害及其防治在什么时期容易发病？",
+    "answer": "关于小麦主要病害及其防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及其防治_李国俊.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 458,
+    "question": "小麦雪腐病的发病原因是什么？",
+    "answer": "一、播期过早\n冬小麦冬前分蘖提前，营养耗损较大，不利于越冬，返青期易感病。\n二、冬日积雪厚\n积雪厚度大、积雪时间长，开春时期湿度大，有利于病害侵染。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 459,
+    "question": "如何识别小麦黄矮病综合防控技术？",
+    "answer": "关于小麦黄矮病综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病综合防控技术_赵素丽.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 460,
+    "question": "小麦赤霉病在什么时期容易发病？",
+    "answer": "关于小麦赤霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同杀菌剂对小麦赤霉病防治效果分析_马晓霞.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 461,
+    "question": "小麦赤霉病发生原因与防治举措研究对小麦有什么危害？",
+    "answer": "关于小麦赤霉病发生原因与防治举措研究的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生原因与防治举措研究_顾娟.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 462,
+    "question": "小麦白秆病国内外研究动态及防治对策对小麦有什么危害？",
+    "answer": "关于小麦白秆病国内外研究动态及防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病国内外研究动态及防治对策_赵宜谦.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 463,
+    "question": "小麦白粉病的防治措施是什么？",
+    "answer": "关于小麦白粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦白粉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 464,
+    "question": "小麦全蚀病防治技术要点在什么条件下容易发生？",
+    "answer": "关于小麦全蚀病防治技术要点的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病防治技术要点_孙香脂.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 465,
+    "question": "小麦炭疽病是什么病害？",
+    "answer": "为害症状\n主要为害叶鞘和叶片。叶鞘染病麦株基部叶鞘先发病，初生褐色病变，产生1～2cm长的椭圆形病斑，边缘暗褐色，中间灰褐色，后沿叶脉纵向扩展成长条形褐斑，致病部以上叶片发黄枯死；叶片染病 形成近圆形至椭圆形病斑。后期病部连成一片，致叶片早枯。以上病部均有小黑粒点，即病原菌的分生孢子盘。茎秆染病生出梭形褐色病斑。\n病原物\n病原为禾生炭疽菌 Colletotrichum graminicola (C",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 466,
+    "question": "小麦黄矮病的发生与综合防控技术在什么条件下容易发生？",
+    "answer": "关于小麦黄矮病的发生与综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病的发生与综合防控技术_秦凯.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 467,
+    "question": "小麦全蚀病的防治措施是什么？",
+    "answer": "关于小麦全蚀病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 468,
+    "question": "小麦赤霉病发病机理与流行规律及高效防控新技术的探索在什么时期容易发病？",
+    "answer": "关于小麦赤霉病发病机理与流行规律及高效防控新技术的探索的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病机理与流行规律及高效防控新技术的探索_姜岳栋.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 469,
+    "question": "小麦炭疽病的防治措施是什么？",
+    "answer": "关于小麦炭疽病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 470,
+    "question": "小麦粒线虫病的症状是什么？",
+    "answer": "病株心叶卷缩并在高温条件下有胶状溢脓，病秆弯曲，往往不能抽穗，即使抽穗，穗也瘦小，部分或全部小穗花器受害不能正常结实而满含细菌菌脓呈蜂蜜状或鸡蛋黄状的粘稠胶液透过颖片缝隙外溢欲滴，麦子成熟后，凝结硬化为亮黄色胶块小粒；整个麦穗凝结成胶质细棒状。\n病原物\n病原为小麦棒杆菌 Clavibacter tritici (Carlson and Vidaver) Davis et al.，属棒杆菌属细菌，是",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 471,
+    "question": "小麦蓝矮病主要危害小麦哪些部位？",
+    "answer": "关于小麦蓝矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蓝矮病毒病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 472,
+    "question": "小麦赤霉病的发生情况和防治对策的传播途径是什么？",
+    "answer": "关于小麦赤霉病的发生情况和防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的发生情况和防治对策_赵鹏.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 473,
+    "question": "小麦蓝矮病的发病规律是什么？",
+    "answer": "关于小麦蓝矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蓝矮病毒病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 474,
+    "question": "小麦斑点病的主要症状有哪些？",
+    "answer": "关于小麦斑点病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 475,
+    "question": "小麦土传花叶病主要危害小麦哪些部位？",
+    "answer": "关于小麦土传花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦土传花叶病毒病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 476,
+    "question": "小麦灰霉病主要危害小麦哪些部位？",
+    "answer": "关于小麦灰霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 477,
+    "question": "小麦白粉病主要危害小麦哪些部位？",
+    "answer": "关于小麦白粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦白粉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 478,
+    "question": "小麦powdery的传播途径是什么？",
+    "answer": "关于小麦powdery的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "powdery_mildew.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 479,
+    "question": "如何识别小麦黄矮病的发生与综合防控技术？",
+    "answer": "关于小麦黄矮病的发生与综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病的发生与综合防控技术_秦凯.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 480,
+    "question": "小麦霜霉病防治措施对小麦有什么危害？",
+    "answer": "关于小麦霜霉病防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦霜霉病防治措施_郑树森.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 481,
+    "question": "小麦赤霉病发生原因与防治举措研究用什么药剂效果好？",
+    "answer": "关于小麦赤霉病发生原因与防治举措研究的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生原因与防治举措研究_顾娟.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 482,
+    "question": "小麦powdery的防治措施是什么？",
+    "answer": "关于小麦powdery的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "powdery_mildew.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 483,
+    "question": "小麦赤霉病发病机理与流行规律及高效防控新技术的探索的防治措施是什么？",
+    "answer": "关于小麦赤霉病发病机理与流行规律及高效防控新技术的探索的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病机理与流行规律及高效防控新技术的探索_姜岳栋.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 484,
+    "question": "小麦秆黑粉病用什么药剂效果好？",
+    "answer": "关于小麦秆黑粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦秆黑粉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 485,
+    "question": "小麦灰霉病的发病规律是什么？",
+    "answer": "关于小麦灰霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 486,
+    "question": "小麦粒线虫病的防治措施是什么？",
+    "answer": "关于小麦粒线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 487,
+    "question": "小麦主要病害及综合防控技术主要危害小麦哪些部位？",
+    "answer": "关于小麦主要病害及综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及综合防控技术_孙新华.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 488,
+    "question": "小麦白粉病的发生与防控的传播途径是什么？",
+    "answer": "关于小麦白粉病的发生与防控的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病的发生与防控_杨亮.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 489,
+    "question": "小麦斑点病在什么条件下容易发生？",
+    "answer": "关于小麦斑点病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 490,
+    "question": "小麦雪霉叶枯病主要危害小麦哪些部位？",
+    "answer": "关于小麦雪霉叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 491,
+    "question": "如何识别小麦蓝矮病？",
+    "answer": "关于小麦蓝矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蓝矮病毒病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 492,
+    "question": "小麦白粉病用什么药剂效果好？",
+    "answer": "关于小麦白粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦白粉病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 493,
+    "question": "小麦灰霉病的主要症状有哪些？",
+    "answer": "关于小麦灰霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 494,
+    "question": "如何识别小麦麦角病？",
+    "answer": "关于小麦麦角病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦麦角病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 495,
+    "question": "小麦全蚀病的主要症状有哪些？",
+    "answer": "关于小麦全蚀病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 496,
+    "question": "小麦主要病害及其防治的防治措施是什么？",
+    "answer": "关于小麦主要病害及其防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及其防治_李国俊.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 497,
+    "question": "小麦禾谷胞囊线虫病对小麦有什么危害？",
+    "answer": "关于小麦禾谷胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 498,
+    "question": "小麦叶枯病如何防治？",
+    "answer": "种子处理：用种子重量0.2％的50％福美双可湿性粉剂，或12.5％的烯唑醇可湿性粉剂，或20％三唑酮乳油拌种。农业防治：实行与非寄主作物轮作，减少田间菌源积累。选用无病种子，适时播种，合理密植，提高播种质量，培育壮苗。小麦收获后及时深耕，加快土壤中病残体分解，减少田间病原菌数量。药剂防治：发病初期可喷洒20％三唑酮乳油2 000倍液，或15％三唑醇可湿性粉剂2 000倍液，或12.5％的烯唑醇可湿",
+    "ground_truth_docs": [
+      "小麦叶枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 499,
+    "question": "小麦全蚀病是什么病害？",
+    "answer": "小麦全蚀病（又称立枯病、黑脚病）是由禾顶囊壳属真菌侵染引发的根部病害，对小麦生产构成严重威胁，该病害可导致减产10%～50%，甚至绝收，且具有传播速度快、防治难度大的特点。\n1. 农业防治技术\n1.1 轮作倒茬，耕作管理\n如果连续种植小麦超过3年，土壤中的全蚀病菌数量会增加3—5倍。但是，如果采用小麦－玉米－大豆（或花生）的3年轮作模式，土壤中的病原菌数量可以减少40%～60%。小麦收获后应及时进",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 500,
+    "question": "小麦梭条斑花叶病的主要症状有哪些？",
+    "answer": "关于小麦梭条斑花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦梭条斑花叶病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 501,
+    "question": "小麦赤霉病流行关键环节：从病菌生态适应到防控策略的发病规律是什么？",
+    "answer": "关于小麦赤霉病流行关键环节：从病菌生态适应到防控策略的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病流行关键环节：从病菌生态适应到防控策略_侯孟德.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 502,
+    "question": "小麦雪霉叶枯病如何防治？",
+    "answer": "简介\n小麦雪霉叶枯病又称小麦叶斑病、小麦雪腐叶斑病、小麦镰刀轮斑病等，是积雪时间较长的冬小麦产区的常见病害，最早在北欧、亚洲及北美等地发生。该病最早在我国新疆北部被发现，后陕西相继发生，近年来江西、江苏等省均有发现。\n病源\n小麦雪霉叶枯病病菌为雪腐格氏霉[Gerlachia nivalis（Ces.ex Sacc.）Gams and Mull.]，属半知菌亚门真菌。病菌的分生孢子座于病叶上产生，后",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 503,
+    "question": "小麦链格孢叶枯病如何防治？",
+    "answer": "农业防治：种植抗病、耐病品种。增施腐熟有机肥。开沟排渍，降低田间湿度，可减轻病害发生。\n化学防治：发病初期可喷施75%百菌清可湿性粉剂600倍液，或70%代森锰锌可湿性粉剂500倍液，或50%异菌脲可湿性粉剂1500倍液。",
+    "ground_truth_docs": [
+      "小麦链格孢叶枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 504,
+    "question": "小麦霜霉病防治措施的防治措施是什么？",
+    "answer": "关于小麦霜霉病防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦霜霉病防治措施_郑树森.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 505,
+    "question": "小麦叶锈病的症状是什么？",
+    "answer": "特征\n叶片出现橙褐色圆形夏孢子堆，散生不排列成行（区别于条锈病）。孢子堆较小，表皮破裂后散出褐色粉末（夏孢子）。后期在叶片背面或叶鞘上出现黑色冬孢子堆。严重时叶片枯黄，植株早衰。\n发病条件\n适宜温度为18-22℃，相对湿度70%以上。春季温暖多雨有利于病害流行。品种抗性差、田间湿度大、氮肥过量会加重发病。\n传播途径\n气流传播为主，夏孢子随气流远距离传播。田间通过风雨传播。病原菌在自生麦苗上越夏，秋",
+    "ground_truth_docs": [
+      "小麦叶锈病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 506,
+    "question": "小麦fusarium的主要症状有哪些？",
+    "answer": "关于小麦fusarium的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "fusarium_head_blight.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 507,
+    "question": "小麦黑颖病的症状是什么？",
+    "answer": "主要为害穗部，也能侵染叶片、穗轴、茎秆等部位。穗部。初在颖片上部产生水渍状细条纹，继而发展成黄褐或深褐色条斑，后来逐渐形成斑块；严重时，蔓延到全颖片和麦芒，在麦芒上形成褐色斑，使芒变成黑褐色枯死。一般全穗及颖片上的条斑或斑块分布多不规则。发病种子皱缩或不饱满。发病轻的种子颜色变深。叶片。初呈现水渍状小点，后沿叶脉间上、下扩展，变成半透明条斑，最后呈现黄褐色或相互连结成大块黄褐色油渍状发亮的枯死斑。",
+    "ground_truth_docs": [
+      "小麦黑颖病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 508,
+    "question": "小麦斑枯病在什么时期容易发病？",
+    "answer": "关于小麦斑枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦斑枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 509,
+    "question": "如何识别小麦秆枯病？",
+    "answer": "关于小麦秆枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦秆枯病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 510,
+    "question": "小麦黄矮病是什么病害？",
+    "answer": "小麦黄矮病是由大麦黄矮病毒(Barley yellow dwarf virus，BYDV)引起的一种病毒性病害，在我国各麦区均有分布。该病通过蚜虫传播，对小麦的产量和品质造成严重威胁。\n发病症状\n小麦黄矮病在小麦各生育期均可发生，症状主要表现在叶片上。病株叶片尖端出现鲜明的黄色，逐渐向下扩展，呈现与叶脉平行但不受叶脉限制的黄绿相间条纹。病株有不同程度的矮化。叶色的变化随品种特性不同而不同，有的为黄",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 511,
+    "question": "小麦赤霉病流行关键环节：从病菌生态适应到防控策略在什么时期容易发病？",
+    "answer": "关于小麦赤霉病流行关键环节：从病菌生态适应到防控策略的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病流行关键环节：从病菌生态适应到防控策略_侯孟德.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 512,
+    "question": "小麦根腐病在什么条件下容易发生？",
+    "answer": "关于小麦根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦根腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 513,
+    "question": "小麦纹枯病的防治措施的防治措施是什么？",
+    "answer": "关于小麦纹枯病的防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦纹枯病的防治措施_武庆绪.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 514,
+    "question": "小麦雪霉叶枯病在什么时期容易发病？",
+    "answer": "关于小麦雪霉叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 515,
+    "question": "如何识别小麦丛矮病？",
+    "answer": "关于小麦丛矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 516,
+    "question": "小麦黑颖病用什么药剂防治？",
+    "answer": "：田间发病初期，喷洒15％噻枯唑胶悬剂500倍液，或25％叶枯宁可湿性粉剂500倍液，或新植霉素4 000倍液，每隔7～10天喷1次，连续喷2～3次。",
+    "ground_truth_docs": [
+      "小麦黑颖病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 517,
+    "question": "小麦黄矮病综合防控技术对小麦有什么危害？",
+    "answer": "关于小麦黄矮病综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病综合防控技术_赵素丽.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 518,
+    "question": "小麦白粉病的发生与防控的防治措施是什么？",
+    "answer": "关于小麦白粉病的发生与防控的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病的发生与防控_杨亮.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 519,
+    "question": "小麦雪霉叶枯病的发生与防治用什么药剂效果好？",
+    "answer": "关于小麦雪霉叶枯病的发生与防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病的发生与防治_赵厚芹.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 520,
+    "question": "小麦叶锈病用什么药剂防治？",
+    "answer": "三唑酮、丙环唑、戊唑醇、氟环唑等三唑类杀菌剂。施药时注意轮换用药。\n注意事项\n一、叶锈病与条锈病症状相似，需注意区分：叶锈病孢子堆散生，条锈病孢子堆排列成行。\n二、施药应在发病初期进行，效果最佳。\n三、注意药剂的持效期，必要时进行二次施药。\n四、收获前15-20天停止用药。",
+    "ground_truth_docs": [
+      "小麦叶锈病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 521,
+    "question": "小麦根腐病的传播途径是什么？",
+    "answer": "关于小麦根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦根腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 522,
+    "question": "小麦纹枯病是什么病害？",
+    "answer": "小麦纹枯病是一种由真菌引起的常见病害，具有隐蔽性强、危害期长和损失严重等特点，小麦从苗期至成熟期均可能造成危害。该病主要侵染叶鞘和茎秆，发病初期，在叶鞘形成椭圆形或梭形的淡褐色至深褐色病斑，中间灰白、边缘清晰；随着病情的发展，茎秆可发生褐变腐烂甚至折断，导致麦穗灌浆不足、籽粒干瘪，严重时可能出现枯孕穗、白穗甚至整株死亡，不仅严重影响小麦的产量和品质，还会增加种植成本并破坏农田生态。该病害在温暖高湿",
+    "ground_truth_docs": [
+      "小麦纹枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 523,
+    "question": "如何识别小麦全蚀病防治技术要点？",
+    "answer": "关于小麦全蚀病防治技术要点的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病防治技术要点_孙香脂.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 524,
+    "question": "小麦秆枯病在什么时期容易发病？",
+    "answer": "关于小麦秆枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦秆枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 525,
+    "question": "小麦纹枯病的防治措施在什么条件下容易发生？",
+    "answer": "关于小麦纹枯病的防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦纹枯病的防治措施_武庆绪.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 526,
+    "question": "小麦赤霉病的特点及防治方法的防治措施是什么？",
+    "answer": "关于小麦赤霉病的特点及防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的特点及防治方法_李瑞祥.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 527,
+    "question": "小麦黄矮病在什么时期容易发病？",
+    "answer": "关于小麦黄矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 528,
+    "question": "小麦赤霉病主要危害小麦哪些部位？",
+    "answer": "关于小麦赤霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同杀菌剂对小麦赤霉病防治效果分析_马晓霞.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 529,
+    "question": "小麦斑枯病对小麦有什么危害？",
+    "answer": "关于小麦斑枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦斑枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 530,
+    "question": "小麦黄矮病综合防控技术的主要症状有哪些？",
+    "answer": "关于小麦黄矮病综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病综合防控技术_赵素丽.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 531,
+    "question": "小麦雪霉叶枯病用什么药剂效果好？",
+    "answer": "关于小麦雪霉叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 532,
+    "question": "小麦粒线虫病的传播途径是什么？",
+    "answer": "关于小麦粒线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 533,
+    "question": "小麦赤霉病流行关键环节：从病菌生态适应到防控策略用什么药剂效果好？",
+    "answer": "关于小麦赤霉病流行关键环节：从病菌生态适应到防控策略的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病流行关键环节：从病菌生态适应到防控策略_侯孟德.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 534,
+    "question": "小麦赤霉病流行关键环节：从病菌生态适应到防控策略对小麦有什么危害？",
+    "answer": "关于小麦赤霉病流行关键环节：从病菌生态适应到防控策略的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病流行关键环节：从病菌生态适应到防控策略_侯孟德.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 535,
+    "question": "小麦白粉病的发生与防控对小麦有什么危害？",
+    "answer": "关于小麦白粉病的发生与防控的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病的发生与防控_杨亮.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 536,
+    "question": "小麦白粉病发病原因及综合防治对策在什么条件下容易发生？",
+    "answer": "关于小麦白粉病发病原因及综合防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发病原因及综合防治对策_周荣.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 537,
+    "question": "小麦蜜穗病的主要症状有哪些？",
+    "answer": "关于小麦蜜穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦蜜穗病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 538,
+    "question": "小麦主要病害及其防治用什么药剂效果好？",
+    "answer": "关于小麦主要病害及其防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及其防治_李国俊.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 539,
+    "question": "如何识别小麦全蚀病？",
+    "answer": "关于小麦全蚀病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 540,
+    "question": "小麦蜜穗病对小麦有什么危害？",
+    "answer": "关于小麦蜜穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦蜜穗病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 541,
+    "question": "小麦黄矮病对小麦有什么危害？",
+    "answer": "关于小麦黄矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 542,
+    "question": "小麦细菌性条斑病是什么病害？",
+    "answer": "小麦细菌性条斑病在新疆、西藏、山东、北京等地均有发生，是新疆小麦产区的主要病害之一。主要为害叶片，使叶片提早干枯死亡，穗形变小，籽粒干秕而减产，一般减产15%～20%。\n为害症状\n主要为害叶片，严重时也可为害叶鞘、茎秆、颖片和籽粒。发病初期，病部出现针尖大小的暗绿色小斑，后扩展为水浸状的半透明条斑，最后颜色变为深褐色。病部常出现露珠状的菌脓。\n病原物\n病原为小麦黑颖病黄单胞菌 Xanthomona",
+    "ground_truth_docs": [
+      "小麦细菌性条斑病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 543,
+    "question": "小麦赤霉病发病机理与流行规律及高效防控新技术的探索对小麦有什么危害？",
+    "answer": "关于小麦赤霉病发病机理与流行规律及高效防控新技术的探索的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病机理与流行规律及高效防控新技术的探索_姜岳栋.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 544,
+    "question": "小麦秆枯病主要危害小麦哪些部位？",
+    "answer": "关于小麦秆枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦秆枯病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 545,
+    "question": "小麦sheath用什么药剂效果好？",
+    "answer": "关于小麦sheath的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "sheath_blight.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 546,
+    "question": "小麦全蚀病防治技术要点主要危害小麦哪些部位？",
+    "answer": "关于小麦全蚀病防治技术要点的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病防治技术要点_孙香脂.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 547,
+    "question": "小麦黄矮病的发生与综合防控技术用什么药剂效果好？",
+    "answer": "关于小麦黄矮病的发生与综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病的发生与综合防控技术_秦凯.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 548,
+    "question": "小麦赤霉病发病症状与防治方法的防治措施是什么？",
+    "answer": "关于小麦赤霉病发病症状与防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病症状与防治方法_庞海龙.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 549,
+    "question": "小麦赤霉病发病机理与流行规律及高效防控新技术的探索的传播途径是什么？",
+    "answer": "关于小麦赤霉病发病机理与流行规律及高效防控新技术的探索的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病机理与流行规律及高效防控新技术的探索_姜岳栋.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 550,
+    "question": "小麦蓝矮病的防治措施是什么？",
+    "answer": "关于小麦蓝矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蓝矮病毒病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 551,
+    "question": "如何识别小麦链格孢叶枯病？",
+    "answer": "关于小麦链格孢叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦链格孢叶枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 552,
+    "question": "小麦sheath的防治措施是什么？",
+    "answer": "关于小麦sheath的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "sheath_blight.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 553,
+    "question": "小麦雪腐病在什么时期容易发病？",
+    "answer": "关于小麦雪腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 554,
+    "question": "小麦基腐病发生规律及综合防治措施主要危害小麦哪些部位？",
+    "answer": "关于小麦基腐病发生规律及综合防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病发生规律及综合防治措施_孙苏阳.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 555,
+    "question": "小麦丛矮病的主要症状有哪些？",
+    "answer": "关于小麦丛矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 556,
+    "question": "小麦赤霉病对小麦有什么危害？",
+    "answer": "关于小麦赤霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同杀菌剂对小麦赤霉病防治效果分析_马晓霞.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 557,
+    "question": "如何识别小麦赤霉病发病机理与流行规律及高效防控新技术的探索？",
+    "answer": "关于小麦赤霉病发病机理与流行规律及高效防控新技术的探索的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病机理与流行规律及高效防控新技术的探索_姜岳栋.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 558,
+    "question": "小麦病害的传播途径是什么？",
+    "answer": "关于小麦病害的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同施药处理对小麦两种病害防治效果的试验对比研究_李影.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 559,
+    "question": "小麦赤霉病的防治措施是什么？",
+    "answer": "关于小麦赤霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同杀菌剂对小麦赤霉病防治效果分析_马晓霞.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 560,
+    "question": "小麦主要病害及其防治的主要症状有哪些？",
+    "answer": "关于小麦主要病害及其防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及其防治_李国俊.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 561,
+    "question": "小麦细菌性条斑病的主要症状有哪些？",
+    "answer": "关于小麦细菌性条斑病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦细菌性条斑病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 562,
+    "question": "小麦梭条斑花叶病在什么条件下容易发生？",
+    "answer": "关于小麦梭条斑花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦梭条斑花叶病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 563,
+    "question": "小麦基腐病的发病原因是什么？",
+    "answer": "，春性品种小麦在该地区拔节较早，如遇低温寒流天气，小麦拔节嫩茎受冻，抗病能力下降，利于基腐病菌侵染。\n耕作制度\n连作麦田发病重。小麦连年种植，土壤中菌源逐年增加，为侵染循环创造了条件。\n气候因素\n温度高低和降水量大小都会影响发病的快慢。温度在4～37℃内，小麦基腐病菌都可生长，遇上适宜温、湿度给病菌生长侵染幼苗创造了有利条件。\n土肥因素\n生产上土壤温度低或湿度过低或过高均易发病，土质瘠薄或肥水不足",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 564,
+    "question": "小麦基腐病在什么条件下容易发生？",
+    "answer": "关于小麦基腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 565,
+    "question": "小麦散黑穗病如何防治？",
+    "answer": "农业防治：病重田块的麦秆要及时处理。\n种子处理：参见小麦散黑穗病。",
+    "ground_truth_docs": [
+      "小麦散黑穗病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 566,
+    "question": "小麦秆黑粉病在什么时期容易发病？",
+    "answer": "关于小麦秆黑粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦秆黑粉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 567,
+    "question": "小麦主要病害及其防治的发病规律是什么？",
+    "answer": "关于小麦主要病害及其防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及其防治_李国俊.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 568,
+    "question": "小麦炭疽病在什么时期容易发病？",
+    "answer": "关于小麦炭疽病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 569,
+    "question": "小麦秆黑粉病的防治措施是什么？",
+    "answer": "关于小麦秆黑粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦秆黑粉病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 570,
+    "question": "小麦赤霉病流行关键环节：从病菌生态适应到防控策略的防治措施是什么？",
+    "answer": "关于小麦赤霉病流行关键环节：从病菌生态适应到防控策略的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病流行关键环节：从病菌生态适应到防控策略_侯孟德.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 571,
+    "question": "小麦赤霉病与白粉病的防治对小麦有什么危害？",
+    "answer": "关于小麦赤霉病与白粉病的防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病与白粉病的防治_袁晓霞.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 572,
+    "question": "小麦白秆病国内外研究动态及防治对策用什么药剂效果好？",
+    "answer": "关于小麦白秆病国内外研究动态及防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病国内外研究动态及防治对策_赵宜谦.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 573,
+    "question": "如何识别小麦赤霉病？",
+    "answer": "关于小麦赤霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同杀菌剂对小麦赤霉病防治效果分析_马晓霞.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 574,
+    "question": "小麦赤霉病的症状是什么？",
+    "answer": "特点：\n发病初期，麦叶会出现几层鲜黄色的夏孢子堆，呈小长条状，平行于叶脉；小麦即将成熟时，叶鞘出现黑色、狭长形的条状疱斑，即冬孢子堆。该病害分布广、破坏面积大，极易造成小麦大量减产。",
+    "ground_truth_docs": [
+      "小麦赤霉病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 575,
+    "question": "小麦散黑穗病是什么病害？",
+    "answer": "小麦黑节病主要主要由麦种带菌传播，发病严重时，茎节变黑腐烂，病部以上枯死。\n为害症状\n主要为害茎节，病部呈深褐色，可扩展至节间，发病严重时，茎节变黑腐烂，病部以上枯死。叶片发病，呈初生水渍状条斑，随后病斑颜色逐渐加深，最后变为深褐色。病斑可扩展至叶鞘上，形成长条形病斑，病斑黑褐色。\n病原物\n病原为丁香假单胞菌条纹致病变种 Pseudomona syringae pv.striafaciens (E",
+    "ground_truth_docs": [
+      "小麦散黑穗病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 576,
+    "question": "小麦粒线虫病是什么病害？",
+    "answer": "小麦蜜穗病因其能排出蜜状菌脓的特点而得名，又因其病穗粒菌脓盛期常呈鸡蛋黄状流溢穗表，也称鸡蛋黄病，是小麦粒线虫病的并发病，无粒线虫病就没有蜜穗病。\n为害症状\n病株心叶卷缩并在高温条件下有胶状溢脓，病秆弯曲，往往不能抽穗，即使抽穗，穗也瘦小，部分或全部小穗花器受害不能正常结实而满含细菌菌脓呈蜂蜜状或鸡蛋黄状的粘稠胶液透过颖片缝隙外溢欲滴，麦子成熟后，凝结硬化为亮黄色胶块小粒；整个麦穗凝结成胶质细棒状",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 577,
+    "question": "小麦赤霉病与白粉病的防治的传播途径是什么？",
+    "answer": "关于小麦赤霉病与白粉病的防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病与白粉病的防治_袁晓霞.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 578,
+    "question": "小麦粒线虫病主要危害小麦哪些部位？",
+    "answer": "关于小麦粒线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 579,
+    "question": "小麦根腐病对小麦有什么危害？",
+    "answer": "关于小麦根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦根腐病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 580,
+    "question": "小麦白秆病国内外研究动态及防治对策的主要症状有哪些？",
+    "answer": "关于小麦白秆病国内外研究动态及防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病国内外研究动态及防治对策_赵宜谦.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 581,
+    "question": "小麦全蚀病如何防治？",
+    "answer": "技术要点\n简介\n小麦全蚀病（又称立枯病、黑脚病）是由禾顶囊壳属真菌侵染引发的根部病害，对小麦生产构成严重威胁，该病害可导致减产10%～50%，甚至绝收，且具有传播速度快、防治难度大的特点。\n1. 农业防治技术\n1.1 轮作倒茬，耕作管理\n如果连续种植小麦超过3年，土壤中的全蚀病菌数量会增加3—5倍。但是，如果采用小麦－玉米－大豆（或花生）的3年轮作模式，土壤中的病原菌数量可以减少40%～60%。小",
+    "ground_truth_docs": [
+      "小麦全蚀病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 582,
+    "question": "小麦雪霉叶枯病的症状是什么？",
+    "answer": "苗期\n苗期感病后，首先在胚芽鞘上有条形至长圆形黑褐色病斑生成，严重时导致烂腐。随着小麦的生长，叶鞘变褐坏死，后逐渐向叶片基部发展，最后整叶变褐色或变黄枯死。已经感染病害的麦苗根系短，不发达，生长衰弱，苗矮，发病程度严重时整个植株呈水浸状或腐烂死亡，死苗叶鞘和茎秆处有污白色菌丝生成。\n拔节后抽穗前\n随着小麦的生长，拔节后抽穗前发病部位呈现上移趋势，其主要症状为基腐和鞘腐。从叶鞘与叶片相连处开始侵染，",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 583,
+    "question": "小麦雪腐病的传播途径是什么？",
+    "answer": "关于小麦雪腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 584,
+    "question": "小麦赤霉病的特点及防治方法在什么条件下容易发生？",
+    "answer": "关于小麦赤霉病的特点及防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的特点及防治方法_李瑞祥.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 585,
+    "question": "小麦链格孢叶枯病对小麦有什么危害？",
+    "answer": "关于小麦链格孢叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦链格孢叶枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 586,
+    "question": "如何识别小麦斑枯病？",
+    "answer": "关于小麦斑枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦斑枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 587,
+    "question": "小麦基腐病发生规律及综合防治措施在什么时期容易发病？",
+    "answer": "关于小麦基腐病发生规律及综合防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病发生规律及综合防治措施_孙苏阳.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 588,
+    "question": "如何识别小麦散黑穗病？",
+    "answer": "关于小麦散黑穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦散黑穗病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 589,
+    "question": "小麦胞囊线虫病的主要症状有哪些？",
+    "answer": "关于小麦胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 590,
+    "question": "小麦蓝矮病用什么药剂效果好？",
+    "answer": "关于小麦蓝矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦蓝矮病毒病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 591,
+    "question": "小麦秆黑粉病主要危害小麦哪些部位？",
+    "answer": "关于小麦秆黑粉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦秆黑粉病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 592,
+    "question": "小麦白粉病发生原因分析及防治技术推广对小麦有什么危害？",
+    "answer": "关于小麦白粉病发生原因分析及防治技术推广的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发生原因分析及防治技术推广_李鹏.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 593,
+    "question": "小麦卷曲病对小麦有什么危害？",
+    "answer": "关于小麦卷曲病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦卷曲病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 594,
+    "question": "小麦fusarium主要危害小麦哪些部位？",
+    "answer": "关于小麦fusarium的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "fusarium_head_blight.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 595,
+    "question": "小麦丛矮病在什么条件下容易发生？",
+    "answer": "关于小麦丛矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 596,
+    "question": "小麦雪霉叶枯病的发生与防治的传播途径是什么？",
+    "answer": "关于小麦雪霉叶枯病的发生与防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病的发生与防治_赵厚芹.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 597,
+    "question": "如何识别小麦赤霉病流行关键环节：从病菌生态适应到防控策略？",
+    "answer": "关于小麦赤霉病流行关键环节：从病菌生态适应到防控策略的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病流行关键环节：从病菌生态适应到防控策略_侯孟德.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 598,
+    "question": "小麦赤霉病发生特点及防控措施对小麦有什么危害？",
+    "answer": "关于小麦赤霉病发生特点及防控措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生特点及防控措施_郭鑫莹.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 599,
+    "question": "小麦粒线虫病的主要症状有哪些？",
+    "answer": "关于小麦粒线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 600,
+    "question": "小麦白粉病发生原因分析及防治技术推广在什么条件下容易发生？",
+    "answer": "关于小麦白粉病发生原因分析及防治技术推广的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发生原因分析及防治技术推广_李鹏.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 601,
+    "question": "小麦赤霉病的特点及防治方法在什么时期容易发病？",
+    "answer": "关于小麦赤霉病的特点及防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的特点及防治方法_李瑞祥.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 602,
+    "question": "小麦颖枯病如何防治？",
+    "answer": "种子处理：播种前50％多福合剂500倍液浸种48小时。也可用种子重量0.2％的50％多菌灵可湿性粉剂，或40％拌种双可湿性粉剂，或25％三唑酮可湿性粉剂，或15％三唑醇可湿性粉剂拌种。农业防治：选用抗病品种。实行2年以上轮作。选用无病种子。春麦适时早播，施足基肥，增施磷、钾肥。麦收后深耕灭茬，清除病残体，消灭自生麦苗。药剂防治：重病区，可在小麦分蘖前期喷洒70％代森锰锌可湿性粉剂600倍液，或75",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 603,
+    "question": "小麦赤霉病与白粉病的防治用什么药剂效果好？",
+    "answer": "关于小麦赤霉病与白粉病的防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病与白粉病的防治_袁晓霞.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 604,
+    "question": "小麦主要病害及综合防控技术的传播途径是什么？",
+    "answer": "关于小麦主要病害及综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及综合防控技术_孙新华.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 605,
+    "question": "小麦白秆病国内外研究动态及防治对策在什么条件下容易发生？",
+    "answer": "关于小麦白秆病国内外研究动态及防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病国内外研究动态及防治对策_赵宜谦.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 606,
+    "question": "如何识别小麦赤霉病发病症状与防治方法？",
+    "answer": "关于小麦赤霉病发病症状与防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病症状与防治方法_庞海龙.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 607,
+    "question": "小麦散黑穗病的传播途径是什么？",
+    "answer": "关于小麦散黑穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦散黑穗病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 608,
+    "question": "小麦颖枯病主要危害小麦哪些部位？",
+    "answer": "关于小麦颖枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 609,
+    "question": "小麦散黑穗病在什么时期容易发病？",
+    "answer": "关于小麦散黑穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦散黑穗病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 610,
+    "question": "小麦白粉病与赤霉病的发生及防治的主要症状有哪些？",
+    "answer": "关于小麦白粉病与赤霉病的发生及防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病与赤霉病的发生及防治_秦悦.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 611,
+    "question": "小麦赤霉病发病症状与防治方法主要危害小麦哪些部位？",
+    "answer": "关于小麦赤霉病发病症状与防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病症状与防治方法_庞海龙.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 612,
+    "question": "小麦斑点病主要危害小麦哪些部位？",
+    "answer": "关于小麦斑点病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 613,
+    "question": "小麦红矮病用什么药剂效果好？",
+    "answer": "关于小麦红矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦红矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 614,
+    "question": "小麦颖枯病用什么药剂效果好？",
+    "answer": "关于小麦颖枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 615,
+    "question": "小麦胞囊线虫病的传播途径是什么？",
+    "answer": "关于小麦胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 616,
+    "question": "小麦赤霉病的发生情况和防治对策在什么时期容易发病？",
+    "answer": "关于小麦赤霉病的发生情况和防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病的发生情况和防治对策_赵鹏.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 617,
+    "question": "小麦白粉病的发生与防控的发病规律是什么？",
+    "answer": "关于小麦白粉病的发生与防控的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病的发生与防控_杨亮.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 618,
+    "question": "小麦梭条斑花叶病的传播途径是什么？",
+    "answer": "关于小麦梭条斑花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦梭条斑花叶病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 619,
+    "question": "小麦斑枯病用什么药剂效果好？",
+    "answer": "关于小麦斑枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦斑枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 620,
+    "question": "小麦斑枯病的防治措施是什么？",
+    "answer": "关于小麦斑枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦斑枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 621,
+    "question": "小麦fusarium对小麦有什么危害？",
+    "answer": "关于小麦fusarium的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "fusarium_head_blight.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 622,
+    "question": "小麦雪腐病用什么药剂防治？",
+    "answer": "拌种\n每100 kg麦种用3%敌委丹悬浮种衣剂200 mL，兑水1.5 kg拌匀，可预防小麦雪腐病、雪霉病及其他病害。",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 623,
+    "question": "小麦白粉病如何防治？",
+    "answer": "简介\n小麦在我国的种植范围广，其产量直接影响我国的粮食安全。如果田间水肥管理不科学和播种密度过大，很容易引发小麦赤霉病和白粉病，导致小麦减产。赤霉病是一种真菌性和气候性的病害，发病后会严重影响小麦正常生长，导致小麦籽粒腐烂变质、产量下降。白粉病发生范围广、为害性大，也会影响小麦的产量和质量。\n赤霉病\n一、为害症状\n赤霉病是一种气候性和真菌性的病害，对穗部的为害较大，不同染病部位的症状不同，主要包括",
+    "ground_truth_docs": [
+      "小麦白粉病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 624,
+    "question": "小麦斑点病的传播途径是什么？",
+    "answer": "关于小麦斑点病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 625,
+    "question": "小麦黄矮病的发生与综合防控技术对小麦有什么危害？",
+    "answer": "关于小麦黄矮病的发生与综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病的发生与综合防控技术_秦凯.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 626,
+    "question": "小麦白粉病发病原因及综合防治对策主要危害小麦哪些部位？",
+    "answer": "关于小麦白粉病发病原因及综合防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发病原因及综合防治对策_周荣.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 627,
+    "question": "小麦赤霉病发生原因与防治举措研究的主要症状有哪些？",
+    "answer": "关于小麦赤霉病发生原因与防治举措研究的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生原因与防治举措研究_顾娟.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 628,
+    "question": "如何识别小麦纹枯病的防治措施？",
+    "answer": "关于小麦纹枯病的防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦纹枯病的防治措施_武庆绪.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 629,
+    "question": "小麦白秆病在什么时期容易发病？",
+    "answer": "关于小麦白秆病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 630,
+    "question": "小麦黄矮病的发生与综合防控技术的发病规律是什么？",
+    "answer": "关于小麦黄矮病的发生与综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病的发生与综合防控技术_秦凯.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 631,
+    "question": "小麦powdery主要危害小麦哪些部位？",
+    "answer": "关于小麦powdery的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "powdery_mildew.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 632,
+    "question": "小麦腥黑穗病的症状是什么？",
+    "answer": "病株一般较健株稍矮，分蘖增多，病穗较短，直立，颜色较健穗深，开始为灰绿色，以后变为灰白色，颖壳略向外张开，露出部分病粒。小麦受害后，大多是全穗麦粒变成病粒，少部分穗为部分麦粒变成病粒。病粒较健粒短肥，初为暗绿色，最后变成灰白色，外面包有一层灰褐色薄膜，里面充满黑粉，并有鱼腥味，故称腥黑穗病。\n病原物\n病原为小麦网腥黑粉菌 Tilletia caries. (DC.)Tul和小麦光腥黑粉菌 T. f",
+    "ground_truth_docs": [
+      "小麦腥黑穗病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 633,
+    "question": "小麦赤霉病是什么病害？",
+    "answer": "小麦是我国重要的粮食作物之一，在种植过程中容易受到病虫害侵扰，导致其质量、产量大幅下降。小麦病虫害防治应贯彻预防为主、综合防治的原则，以农业手段为主，化学、物理和生物手段为辅。\n常见小麦病害",
+    "ground_truth_docs": [
+      "小麦赤霉病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 634,
+    "question": "小麦炭疽病主要危害小麦哪些部位？",
+    "answer": "关于小麦炭疽病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 635,
+    "question": "小麦白秆病对小麦有什么危害？",
+    "answer": "关于小麦白秆病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 636,
+    "question": "小麦叶枯病用什么药剂防治？",
+    "answer": "：发病初期可喷洒20％三唑酮乳油2 000倍液，或15％三唑醇可湿性粉剂2 000倍液，或12.5％的烯唑醇可湿性粉剂2 000倍液，或50％福美双可湿性粉剂500倍液，或70％代森锰锌500倍液。",
+    "ground_truth_docs": [
+      "小麦叶枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 637,
+    "question": "小麦秆枯病的发病规律是什么？",
+    "answer": "关于小麦秆枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦秆枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 638,
+    "question": "如何识别小麦根腐病？",
+    "answer": "关于小麦根腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦根腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 639,
+    "question": "小麦全蚀病防治技术要点的防治措施是什么？",
+    "answer": "关于小麦全蚀病防治技术要点的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病防治技术要点_孙香脂.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 640,
+    "question": "如何识别小麦卷曲病？",
+    "answer": "关于小麦卷曲病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦卷曲病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 641,
+    "question": "小麦散黑穗病对小麦有什么危害？",
+    "answer": "关于小麦散黑穗病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦散黑穗病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 642,
+    "question": "小麦颖枯病的症状是什么？",
+    "answer": "主要为害小麦未成熟穗部和茎秆，也为害叶片和叶鞘。穗部。部分小穗颖壳上产生深褐色斑点，后扩展到整个颖壳，病斑枯白色，其上散生小黑点，即病原菌分生孢子器。发病严重时，籽粒不结实。小麦乳熟阶段之前穗部症状明显，容易辨认，当颖壳全部转黄后，病斑不明显，但病部仍可见小黑点。茎节。茎节发病，病斑褐色，能侵入导管并将其堵塞，使节部畸变、扭曲，上部茎秆折断而死。叶片。叶片染害，初生椭圆形淡褐色小斑，后扩大成不规则",
+    "ground_truth_docs": [
+      "小麦颖枯病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 643,
+    "question": "小麦leaf对小麦有什么危害？",
+    "answer": "关于小麦leaf的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "leaf_rust.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 644,
+    "question": "小麦白粉病的发生与防控在什么时期容易发病？",
+    "answer": "关于小麦白粉病的发生与防控的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病的发生与防控_杨亮.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 645,
+    "question": "小麦全蚀病防治技术要点的传播途径是什么？",
+    "answer": "关于小麦全蚀病防治技术要点的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病防治技术要点_孙香脂.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 646,
+    "question": "小麦雪霉叶枯病用什么药剂防治？",
+    "answer": "用量不足等也起不到应有的防治效果。品种间发病程度有差异。\n防治对策\n农业防治\n一是选用抗病品种和无病种子，如矮抗58、西农88等。二是适时播种，合理密植，控制播种量，特别是对于分蘖性强的矮秆品种。三是科学施肥，施足量腐熟有机肥，避免偏施氮肥，增施磷钾肥及中微量元素肥。四是合理水分管理，冬季灌饱，春季尽量不灌或少灌。早春耙耱保墒，严禁大水漫灌和连续灌水。\n化学防治\n一是做好种子晾晒，搞好包衣或拌种，",
+    "ground_truth_docs": [
+      "小麦雪霉叶枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 647,
+    "question": "小麦条锈病的症状是什么？",
+    "answer": "表现\n初期叶片上出现黄绿色的条纹或斑点，逐渐扩大形成黄色至橙黄色的条纹。严重时病斑覆盖整个叶片，导致叶片枯黄甚至死亡。感染严重的植株生长受阻，穗发育不良，产量严重下降。\n减药防控策略\n一、农业综合防控技术\n（一）选育高抗条锈病小麦品种\n利用与抗性基因紧密连锁的分子标记，在实验室条件下准确、迅速地鉴定和选择带有抗病基因的个体。航天诱变育种技术可在短时间内产生大量遗传变异。\n（二）实施科学轮作休耕制度",
+    "ground_truth_docs": [
+      "小麦条锈病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 648,
+    "question": "小麦链格孢叶枯病用什么药剂效果好？",
+    "answer": "关于小麦链格孢叶枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦链格孢叶枯病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 649,
+    "question": "小麦灰霉病用什么药剂效果好？",
+    "answer": "关于小麦灰霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 650,
+    "question": "小麦主要病害及综合防控技术的发病规律是什么？",
+    "answer": "关于小麦主要病害及综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦主要病害及综合防控技术_孙新华.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 651,
+    "question": "小麦赤霉病发病症状与防治方法的发病规律是什么？",
+    "answer": "关于小麦赤霉病发病症状与防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病症状与防治方法_庞海龙.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 652,
+    "question": "小麦赤霉病的发病规律是什么？",
+    "answer": "关于小麦赤霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "不同杀菌剂对小麦赤霉病防治效果分析_马晓霞.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 653,
+    "question": "小麦灰霉病的防治措施是什么？",
+    "answer": "关于小麦灰霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 654,
+    "question": "小麦白秆病的防治措施是什么？",
+    "answer": "关于小麦白秆病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 655,
+    "question": "小麦基腐病的症状是什么？",
+    "answer": "发生规律\n小麦基腐病发病率随有效病原物、气候和小麦栽培方法而异。在20～24℃时前茬作物感病残体上真菌孢子大量形成，病原物扩散需要经常降雨，孢子形成、侵染需高湿，故降水多或高海拔地区凉爽、潮湿的春、秋季气候及暖冬气候都利于病害发生发展。\n影响发病的因素及条件\n品种因素\n易感病、偏春性的品种是小麦基腐病发病的主要原因，春性品种小麦在该地区拔节较早，如遇低温寒流天气，小麦拔节嫩茎受冻，抗病能力下降，利",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "简单"
+  },
+  {
+    "id": 656,
+    "question": "小麦基腐病在什么时期容易发病？",
+    "answer": "关于小麦基腐病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 657,
+    "question": "小麦leaf用什么药剂效果好？",
+    "answer": "关于小麦leaf的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "leaf_rust.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 658,
+    "question": "小麦禾谷胞囊线虫病在什么时期容易发病？",
+    "answer": "关于小麦禾谷胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 659,
+    "question": "小麦灰霉病在什么条件下容易发生？",
+    "answer": "关于小麦灰霉病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦灰霉病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 660,
+    "question": "小麦炭疽病的发病规律是什么？",
+    "answer": "关于小麦炭疽病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦炭疽病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 661,
+    "question": "小麦细菌性条斑病的防治措施是什么？",
+    "answer": "关于小麦细菌性条斑病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦细菌性条斑病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 662,
+    "question": "小麦秆枯病在什么条件下容易发生？",
+    "answer": "关于小麦秆枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦秆枯病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "困难"
+  },
+  {
+    "id": 663,
+    "question": "小麦丛矮病用什么药剂防治？",
+    "answer": "拌种，用30g吡虫啉有效成分/公顷拌种，可有效抑制灰飞虱数量。\n幼苗期及返青期喷施药剂形成隔离带，用10%吡虫啉4000～6000倍液，喷洒麦田周围5～10m，既可杀虫，又可防止灰飞虱入侵麦田。",
+    "ground_truth_docs": [
+      "小麦丛矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 664,
+    "question": "小麦全蚀病防治技术要点在什么时期容易发病？",
+    "answer": "关于小麦全蚀病防治技术要点的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦全蚀病防治技术要点_孙香脂.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 665,
+    "question": "小麦白秆病国内外研究动态及防治对策的防治措施是什么？",
+    "answer": "关于小麦白秆病国内外研究动态及防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病国内外研究动态及防治对策_赵宜谦.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "中等"
+  },
+  {
+    "id": 666,
+    "question": "小麦白粉病发病原因及综合防治对策的主要症状有哪些？",
+    "answer": "关于小麦白粉病发病原因及综合防治对策的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发病原因及综合防治对策_周荣.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 667,
+    "question": "小麦斑枯病的传播途径是什么？",
+    "answer": "关于小麦斑枯病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦斑枯病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 668,
+    "question": "小麦胞囊线虫病对小麦有什么危害？",
+    "answer": "关于小麦胞囊线虫病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦禾谷胞囊线虫病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 669,
+    "question": "如何识别小麦细菌性条斑病？",
+    "answer": "关于小麦细菌性条斑病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦细菌性条斑病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 670,
+    "question": "小麦霜霉病的发病原因是什么？",
+    "answer": "以土壤传播为主，也可由种子传播。病菌以卵孢子随病株残体在土壤中越冬，在适宜条件下卵孢子萌发产生游动孢子，萌发后侵入为害。从第二片真叶时起，开始表现症状，至小麦生长后期，病菌在寄主的叶片、叶鞘和颖壳质组织内产生卵孢子，收获时卵孢子又随病残组织落入土壤中越夏越冬。病害发生的温度为10 ℃~ 20 ℃，适温为19 ℃~ 20 ℃，出现病状的温度为15 ℃~ 25 ℃，适温为25 ℃或稍低。常发于沟底及洼",
+    "ground_truth_docs": [
+      "小麦霜霉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 671,
+    "question": "如何识别小麦赤霉病发生原因与防治举措研究？",
+    "answer": "关于小麦赤霉病发生原因与防治举措研究的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发生原因与防治举措研究_顾娟.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 672,
+    "question": "小麦黄矮病的发生与综合防控技术的主要症状有哪些？",
+    "answer": "关于小麦黄矮病的发生与综合防控技术的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦黄矮病的发生与综合防控技术_秦凯.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 673,
+    "question": "小麦赤霉病流行关键环节：从病菌生态适应到防控策略的传播途径是什么？",
+    "answer": "关于小麦赤霉病流行关键环节：从病菌生态适应到防控策略的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病流行关键环节：从病菌生态适应到防控策略_侯孟德.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 674,
+    "question": "小麦白秆病的传播途径是什么？",
+    "answer": "关于小麦白秆病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白秆病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 675,
+    "question": "小麦卷曲病的防治措施是什么？",
+    "answer": "关于小麦卷曲病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦卷曲病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 676,
+    "question": "小麦细菌性条斑病在什么时期容易发病？",
+    "answer": "关于小麦细菌性条斑病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦细菌性条斑病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 677,
+    "question": "小麦赤霉病发病症状与防治方法用什么药剂效果好？",
+    "answer": "关于小麦赤霉病发病症状与防治方法的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病发病症状与防治方法_庞海龙.txt"
+    ],
+    "category": "综合",
+    "difficulty": "困难"
+  },
+  {
+    "id": 678,
+    "question": "小麦白粉病的发病原因是什么？",
+    "answer": "多种镰刀菌是引发小麦赤霉病的主要真菌，其致病能力强、扩散范围广。通常情况下，病菌的菌丝体直接在患病组织内越冬，或者在农作物秸秆中越冬，如果第2年气候适宜会传播和扩散。春季产生的子囊壳成熟之后会出现大量的分生孢子，借助气流传播到小麦的穗部，使健康的小麦被感染。调查研究显示，不同阶段的病菌抵抗力存在明显差异性，小麦扬花期和抽穗期是该病高发时期。在大量病菌存在的同时，如果扬花期和抽穗期遇到持续降雨天气，",
+    "ground_truth_docs": [
+      "小麦白粉病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "简单"
+  },
+  {
+    "id": 679,
+    "question": "小麦腥黑穗病用什么药剂防治？",
+    "answer": "拌种，药剂可选用33.5%喹啉铜悬乳剂，或25％三唑酮可湿性粉剂，或15％三唑醇可湿性粉剂，或50％拌种双可湿性粉剂，或50％萎锈灵可湿性粉剂，用量为种子重量的0.2％。也可用种子重量0.1％的2%戊唑醇可湿性粉剂拌种，或用种子重量0.3％的50％克菌丹可湿性粉剂，或70％敌克松可湿性粉剂拌种。此外，用种子重量用1％生石灰水浸种也有较好的防病效果，气温在35℃时浸种1天，25℃时浸种2天，20℃浸",
+    "ground_truth_docs": [
+      "小麦腥黑穗病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 680,
+    "question": "小麦赤霉病与白粉病的防治的防治措施是什么？",
+    "answer": "关于小麦赤霉病与白粉病的防治的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦赤霉病与白粉病的防治_袁晓霞.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 681,
+    "question": "小麦斑点病的症状是什么？",
+    "answer": "麦苗发病以后，先在叶尖和基部出现紫褐色的斑点或短条纹。第2年小麦返青拔节阶段，叶色深绿，色调深浅不匀，接着从叶尖叶缘逐渐褪色，整个叶片变成紫红色，显得僵硬宽厚，表面光滑，病株生育迟缓停滞，重病株的心叶卷缩成黄白色针状，不能抽出而枯死；发病稍轻者虽能拔节，但节间缩短，叶鞘松驰，上下叶鞘重叠在一起，叶片聚拢成丛生状，逐渐枯死；发病更轻的虽能抽穗，但不形成花器或花器残缺不全，不能结实，有能结实者亦籽实秕",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "症状",
+    "difficulty": "困难"
+  },
+  {
+    "id": 682,
+    "question": "小麦leaf主要危害小麦哪些部位？",
+    "answer": "关于小麦leaf的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "leaf_rust.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 683,
+    "question": "小麦斑点病在什么时期容易发病？",
+    "answer": "关于小麦斑点病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦斑点病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 684,
+    "question": "小麦sheath的发病规律是什么？",
+    "answer": "关于小麦sheath的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "sheath_blight.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "中等"
+  },
+  {
+    "id": 685,
+    "question": "小麦红矮病在什么条件下容易发生？",
+    "answer": "关于小麦红矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦红矮病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 686,
+    "question": "小麦土传花叶病的防治措施是什么？",
+    "answer": "关于小麦土传花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦土传花叶病毒病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 687,
+    "question": "小麦红矮病主要危害小麦哪些部位？",
+    "answer": "关于小麦红矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦红矮病.txt"
+    ],
+    "category": "药剂",
+    "difficulty": "简单"
+  },
+  {
+    "id": 688,
+    "question": "小麦霜霉病是什么病害？",
+    "answer": "小麦霜霉病又称黄化萎缩病。由藻状菌纲指疫霉属霜霉菌侵染引起的一种真菌病害。主要为害麦类，亦可侵染玉米、高粱、水稻等多种禾本科作物及看麦娘、稗草、马唐等多种禾本科杂草。我国主要分布在长江中、下游麦区，以及西北、华北、西南和西藏高原等麦区，一般造成减产达10% ~ 20%。\n症状和诊断方法\n主要以侵染叶和茎为主。植株黄化萎缩，剑叶、穗部畸形。苗期发病，麦苗萎缩，叶色深绿并有轻微的条纹状花叶，分蘖稍有增",
+    "ground_truth_docs": [
+      "小麦霜霉病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 689,
+    "question": "小麦粒线虫病如何防治？",
+    "answer": "重点防治小麦线虫病，小麦线虫病防住以后，即无本病发生。",
+    "ground_truth_docs": [
+      "小麦粒线虫病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "简单"
+  },
+  {
+    "id": 690,
+    "question": "小麦红矮病的防治措施是什么？",
+    "answer": "关于小麦红矮病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦红矮病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 691,
+    "question": "小麦土传花叶病的主要症状有哪些？",
+    "answer": "关于小麦土传花叶病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦土传花叶病毒病.txt"
+    ],
+    "category": "防治",
+    "difficulty": "中等"
+  },
+  {
+    "id": 692,
+    "question": "小麦雪腐病是什么病害？",
+    "answer": "小麦雪腐病、雪霉病主要发生在北疆积雪较多的冬麦区，是冬小麦田间危害最重的苗期病害。发生较轻年份因部分分蘖死亡而减产，降雪多、积雪时间长的年份发病重，常可引起全田麦苗死亡，导致绝产绝收，产量损失可达20%以上。\n发病特征",
+    "ground_truth_docs": [
+      "小麦雪腐病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 693,
+    "question": "小麦条锈病是什么病害？",
+    "answer": "病原菌生物学特性\n条锈菌是一种重要的小麦病原真菌，主要以菌丝体生活在小麦叶片中，形成长条形的黄锈斑。较低的温度（10～20℃）和高湿度有利于其生长和传播。条锈菌是一种异核生物，具有复杂的生活史，包括产生有性和无性孢子的阶段。\n发病规律",
+    "ground_truth_docs": [
+      "小麦条锈病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 694,
+    "question": "如何识别小麦霜霉病防治措施？",
+    "answer": "关于小麦霜霉病防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦霜霉病防治措施_郑树森.txt"
+    ],
+    "category": "综合",
+    "difficulty": "中等"
+  },
+  {
+    "id": 695,
+    "question": "如何识别小麦基腐病发生规律及综合防治措施？",
+    "answer": "关于小麦基腐病发生规律及综合防治措施的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦基腐病发生规律及综合防治措施_孙苏阳.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  },
+  {
+    "id": 696,
+    "question": "小麦黑节病的发病规律是什么？",
+    "answer": "关于小麦黑节病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦黑节病.txt"
+    ],
+    "category": "综合",
+    "difficulty": "简单"
+  },
+  {
+    "id": 697,
+    "question": "小麦条锈病的防治措施是什么？",
+    "answer": "关于小麦条锈病的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "1小麦条锈病.txt"
+    ],
+    "category": "发病条件",
+    "difficulty": "困难"
+  },
+  {
+    "id": 698,
+    "question": "小麦白粉病的发生与防控用什么药剂效果好？",
+    "answer": "关于小麦白粉病的发生与防控的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病的发生与防控_杨亮.txt"
+    ],
+    "category": "防治",
+    "difficulty": "困难"
+  },
+  {
+    "id": 699,
+    "question": "小麦白粉病发生原因分析及防治技术推广用什么药剂效果好？",
+    "answer": "关于小麦白粉病发生原因分析及防治技术推广的相关信息，请参考知识库文档。",
+    "ground_truth_docs": [
+      "小麦白粉病发生原因分析及防治技术推广_李鹏.txt"
+    ],
+    "category": "症状",
+    "difficulty": "中等"
+  }
+]
