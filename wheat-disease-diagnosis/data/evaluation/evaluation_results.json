@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11 01:24:50",
+  "timestamp": "2026-05-27 13:27:49",
   "total_queries": 700,
   "results": [
     {
@@ -12,7 +12,7 @@
       "avg_precision": 0.7685714285714286,
       "avg_f1": 0.7838095238095237,
       "avg_hit_rate": 0.8142857142857143,
-      "time_elapsed": 2.563091516494751
+      "time_elapsed": 5.434344291687012
     },
     {
       "scheme_name": "向量检索",
@@ -20,11 +20,11 @@
         "dense"
       ],
       "total_queries": 700,
-      "avg_recall": 0.8757142857142857,
-      "avg_precision": 0.3614047619047619,
-      "avg_f1": 0.4857619047619048,
-      "avg_hit_rate": 0.8757142857142857,
-      "time_elapsed": 28.892503261566162
+      "avg_recall": 0.8771428571428571,
+      "avg_precision": 0.36176190476190473,
+      "avg_f1": 0.48633333333333334,
+      "avg_hit_rate": 0.8771428571428571,
+      "time_elapsed": 29.46735954284668
     },
     {
       "scheme_name": "BM25",
@@ -32,24 +32,24 @@
         "bm25"
       ],
       "total_queries": 700,
-      "avg_recall": 0.9642857142857143,
-      "avg_precision": 0.31164285714285717,
-      "avg_f1": 0.45942857142857146,
-      "avg_hit_rate": 0.9642857142857143,
-      "time_elapsed": 0.16175007820129395
+      "avg_recall": 0.9671428571428572,
+      "avg_precision": 0.31899999999999995,
+      "avg_f1": 0.46628571428571425,
+      "avg_hit_rate": 0.9671428571428572,
+      "time_elapsed": 0.14948248863220215
     },
     {
-      "scheme_name": "向量检索 + 知识图谱",
+      "scheme_name": "知识图谱 + 向量检索",
       "modules": [
-        "dense",
-        "kg"
+        "kg",
+        "dense"
       ],
       "total_queries": 700,
       "avg_recall": 0.95,
-      "avg_precision": 0.5320714285714285,
-      "avg_f1": 0.629047619047619,
+      "avg_precision": 0.531952380952381,
+      "avg_f1": 0.628904761904762,
       "avg_hit_rate": 0.95,
-      "time_elapsed": 31.04059863090515
+      "time_elapsed": 34.7429096698761
     },
     {
       "scheme_name": "知识图谱 + BM25",
@@ -62,34 +62,34 @@
       "avg_precision": 0.5316666666666667,
       "avg_f1": 0.6319523809523809,
       "avg_hit_rate": 0.9685714285714285,
-      "time_elapsed": 2.788714647293091
+      "time_elapsed": 3.076850175857544
     },
     {
-      "scheme_name": "向量检索 + BM25",
+      "scheme_name": "BM25 + 向量检索",
       "modules": [
-        "dense",
-        "bm25"
+        "bm25",
+        "dense"
       ],
       "total_queries": 700,
-      "avg_recall": 0.9571428571428572,
-      "avg_precision": 0.35814285714285715,
-      "avg_f1": 0.4942857142857143,
-      "avg_hit_rate": 0.9571428571428572,
-      "time_elapsed": 27.09483051300049
+      "avg_recall": 0.9614285714285714,
+      "avg_precision": 0.36247619047619045,
+      "avg_f1": 0.4992857142857143,
+      "avg_hit_rate": 0.9614285714285714,
+      "time_elapsed": 29.86007308959961
     },
     {
-      "scheme_name": "向量检索 + 知识图谱 + BM25",
+      "scheme_name": "知识图谱 + 向量检索 + BM25",
       "modules": [
-        "dense",
         "kg",
+        "dense",
         "bm25"
       ],
       "total_queries": 700,
       "avg_recall": 0.98,
-      "avg_precision": 0.5133095238095238,
-      "avg_f1": 0.6217142857142857,
+      "avg_precision": 0.5164047619047619,
+      "avg_f1": 0.6238571428571429,
       "avg_hit_rate": 0.98,
-      "time_elapsed": 30.625190258026123
+      "time_elapsed": 34.70258688926697
     }
   ]
 }

@@ -8,8 +8,8 @@ import os
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
 # 系统信息
-SYSTEM_NAME = "混合检索系统"
-SYSTEM_DESCRIPTION = "知识图谱 + 向量检索 + BM25混合检索"
+SYSTEM_NAME = "知识增强优化的小麦病害辅助诊断问答系统"
+SYSTEM_DESCRIPTION = "基于知识图谱、向量检索和BM25的混合检索小麦病害诊断系统"
 
 # Neo4j图数据库配置
 NEO4J_URI = "neo4j://127.0.0.1:7687"

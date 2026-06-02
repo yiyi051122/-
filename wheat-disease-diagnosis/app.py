@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""小麦病害辅助诊断系统 - 支持模块化检索对比实验
+"""知识增强优化的小麦病害辅助诊断问答系统 - 支持模块化检索对比实验
 """
 import os
 os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
@@ -18,8 +18,11 @@ from config import SYSTEM_NAME, SYSTEM_DESCRIPTION, NEO4J_URI, NEO4J_USER, NEO4J
 from src.rag.langchain_rag import WheatDiseaseLangChain
 
 
+VALID_USERNAME = "xiaomai"
+VALID_PASSWORD = "12345678"
+
+
 def clean_markdown(text):
-    """清理markdown符号，返回纯文本"""
     if not text:
         return text
     
@@ -36,7 +39,6 @@ def clean_markdown(text):
 
 
 def create_pdf_report(user_input, diagnosis_result, diagnosis_time):
-    """创建PDF诊断报告"""
     try:
         from reportlab.lib.pagesizes import A4
         from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
@@ -109,9 +111,7 @@ def create_pdf_report(user_input, diagnosis_result, diagnosis_time):
         return None
 
 
-
 def load_custom_css():
-    """加载自定义CSS样式"""
     st.markdown("""
     <style>
         .main {
@@ -132,6 +132,17 @@ def load_custom_css():
             padding: 1rem 0;
             margin-bottom: 2rem;
         }
+
+        .main-header-small {
+            font-size: 1.8rem;
+            font-weight: 600;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-align: center;
+            padding: 0.5rem 0;
+            margin-bottom: 1rem;
+        }
         
         .card {
             background: white;
@@ -141,6 +152,24 @@ def load_custom_css():
             margin-bottom: 1.5rem;
             border: 1px solid rgba(255, 255, 255, 0.8);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card-home {
+            background: white;
+            border-radius: 20px;
+            padding: 2rem;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+            margin-bottom: 1.5rem;
+            border: 2px solid transparent;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            min-height: 180px;
+        }
+
+        .card-home:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 40px rgba(102, 126, 234, 0.25);
+            border-color: #667eea;
         }
         
         .card:hover {
@@ -156,6 +185,16 @@ def load_custom_css():
             display: flex;
             align-items: center;
             gap: 0.5rem;
+        }
+
+        .card-title-home {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1a1a2e;
+            margin-bottom: 0.75rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
         }
         
         .metric-card {
@@ -238,6 +277,17 @@ def load_custom_css():
         .stButton > button[kind="primary"]:hover {
             transform: translateY(-2px);
             box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .stButton > button.home-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: none;
+            border-radius: 10px;
+            padding: 0.5rem 1.5rem;
+            font-weight: 600;
+            color: white;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            font-size: 0.875rem;
         }
         
         [data-testid="stSidebar"] {
@@ -352,13 +402,57 @@ def load_custom_css():
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             border-color: transparent;
         }
+
+        .login-container {
+            max-width: 450px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .login-card {
+            background: white;
+            border-radius: 24px;
+            padding: 3rem;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+        }
+
+        .login-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .login-icon {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+        }
+
+        .login-title {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: #1a1a2e;
+            margin-bottom: 0.5rem;
+        }
+
+        .login-subtitle {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .feature-desc {
+            font-size: 0.95rem;
+            color: #666;
+            line-height: 1.6;
+        }
     </style>
     """, unsafe_allow_html=True)
 
 
 class WheatDiseaseDiagnosisSystemHybrid:
-    """小麦病害诊断系统 - 混合检索（支持模块化）"""
-    
     def __init__(self):
         self.rag = None
         self._initialized = False
@@ -370,13 +464,11 @@ class WheatDiseaseDiagnosisSystemHybrid:
             self._initialized = True
     
     def set_enabled_modules(self, modules):
-        """设置启用的模块"""
         self._enabled_modules = modules
         if self._initialized and self.rag:
             self.rag.set_enabled_modules(modules)
     
     def get_enabled_modules(self):
-        """获取启用的模块"""
         return self._enabled_modules
     
     def diagnose(self, user_input):
@@ -423,6 +515,116 @@ def init_session_state():
         st.session_state.test_running = False
     if 'full_test_results' not in st.session_state:
         st.session_state.full_test_results = None
+    if 'logged_in' not in st.session_state:
+        st.session_state.logged_in = False
+    if 'current_page' not in st.session_state:
+        st.session_state.current_page = 'login'
+
+
+def render_login_page():
+    load_custom_css()
+    
+    st.markdown("""
+    <div class="login-container">
+        <div class="login-card">
+            <div class="login-header">
+                <div class="login-icon">🌾</div>
+                <div class="login-title">知识增强优化的小麦病害辅助诊断问答系统</div>
+            </div>
+    """, unsafe_allow_html=True)
+    
+    st.markdown("""
+    <div style="margin-bottom: 1.5rem; width: 50%; margin-left: auto; margin-right: auto;">
+    """, unsafe_allow_html=True)
+    
+    username = st.text_input("账号", placeholder="请输入账号", key="login_username")
+    password = st.text_input("密码", placeholder="请输入密码", type="password", key="login_password")
+    
+    st.markdown("""
+    </div>
+    """, unsafe_allow_html=True)
+    
+    if st.button("登录", type="primary", use_container_width=True):
+        if username == VALID_USERNAME and password == VALID_PASSWORD:
+            st.session_state.logged_in = True
+            st.session_state.current_page = 'home'
+            st.rerun()
+        else:
+            st.markdown("""
+            <div class="status-error" style="text-align: center;">
+                <span>✗</span> 账号或密码错误
+            </div>
+            """, unsafe_allow_html=True)
+    
+    st.markdown("""
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
+
+
+def render_home_page():
+    load_custom_css()
+    
+    st.markdown(f'<h1 class="main-header">🏠 {SYSTEM_NAME}</h1>', unsafe_allow_html=True)
+    
+    st.markdown("""
+    <div class="info-box">
+        <strong>📌 欢迎使用小麦病害辅助诊断系统</strong><br>
+        请选择下方功能模块开始使用系统功能。
+    </div>
+    """, unsafe_allow_html=True)
+    
+    col1, col2 = st.columns(2, gap="large")
+    
+    with col1:
+        st.markdown("""
+        <div class="card-home">
+            <div class="feature-icon">🔍</div>
+            <div class="card-title-home">病害诊断</div>
+            <div class="feature-desc">输入小麦病害症状描述，系统将提供详细的病害分析和防治建议。</div>
+        </div>
+        """, unsafe_allow_html=True)
+        if st.button("🔍 进入病害诊断", key="btn_diagnosis", use_container_width=True, type="primary"):
+            st.session_state.current_page = 'diagnosis'
+            st.rerun()
+    
+    with col2:
+        st.markdown("""
+        <div class="card-home">
+            <div class="feature-icon">🧪</div>
+            <div class="card-title-home">检索测试</div>
+            <div class="feature-desc">对不同检索方案进行对比测试，支持7种组合方案的召回率、精确率、F1分数和命中率评估。</div>
+        </div>
+        """, unsafe_allow_html=True)
+        if st.button("🧪 进入检索测试", key="btn_test", use_container_width=True, type="primary"):
+            st.session_state.current_page = 'test'
+            st.rerun()
+    
+    col3, col4 = st.columns(2, gap="large")
+    
+    with col3:
+        st.markdown("""
+        <div class="card-home">
+            <div class="feature-icon">📊</div>
+            <div class="card-title-home">向量数据库</div>
+            <div class="feature-desc">可视化管理Chroma向量数据库，支持文档列表浏览、相似度搜索和统计信息查看。</div>
+        </div>
+        """, unsafe_allow_html=True)
+        if st.button("📊 进入向量数据库", key="btn_vector", use_container_width=True, type="primary"):
+            st.session_state.current_page = 'vector_db'
+            st.rerun()
+    
+    with col4:
+        st.markdown("""
+        <div class="card-home">
+            <div class="feature-icon">🕸️</div>
+            <div class="card-title-home">知识图谱</div>
+            <div class="feature-desc">可视化展示Neo4j知识图谱，包含节点统计、关系统计和实体列表浏览功能。</div>
+        </div>
+        """, unsafe_allow_html=True)
+        if st.button("🕸️ 进入知识图谱", key="btn_kg", use_container_width=True, type="primary"):
+            st.session_state.current_page = 'knowledge_graph'
+            st.rerun()
 
 
 def render_sidebar():
@@ -430,8 +632,8 @@ def render_sidebar():
         st.markdown("""
         <div style="text-align: center; padding: 1rem 0;">
             <div style="font-size: 3rem;">🌾</div>
-            <h2 style="margin: 0.5rem 0; color: white;">混合检索系统</h2>
-            <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem;">模块化对比实验平台</p>
+            <h2 style="margin: 0.5rem 0; color: white;">小麦病害诊断</h2>
+            <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem;">知识增强优化系统</p>
         </div>
         """, unsafe_allow_html=True)
         
@@ -517,16 +719,35 @@ def render_sidebar():
             """, unsafe_allow_html=True)
         
         st.markdown("---")
-        st.markdown(f"""
-        <div style="color: rgba(255,255,255,0.6); font-size: 0.75rem;">
-            <p><strong>系统名称:</strong> {SYSTEM_NAME}</p>
-            <p><strong>描述:</strong> {SYSTEM_DESCRIPTION}</p>
-        </div>
+        st.markdown("### 🏠 导航")
+        
+        st.markdown("""
+        <style>
+            .sidebar-home-btn {
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                color: white;
+                border: none;
+                border-radius: 10px;
+                padding: 0.75rem 1rem;
+                width: 100%;
+                font-weight: 600;
+                cursor: pointer;
+                transition: transform 0.2s ease, box-shadow 0.2s ease;
+            }
+            .sidebar-home-btn:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+            }
+        </style>
         """, unsafe_allow_html=True)
+        
+        if st.button("🏠 返回首页", key="sidebar_home", use_container_width=True, type="primary"):
+            st.session_state.current_page = 'home'
+            st.rerun()
 
 
 def render_main_page():
-    st.markdown('<h1 class="main-header">🏠 基于农业知识增强的小麦病害辅助诊断方法研究</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🔍 病害诊断</h1>', unsafe_allow_html=True)
     
     enabled_modules = st.session_state.enabled_modules
     module_short_names = {"kg": "KG", "dense": "Dense", "bm25": "BM25"}
@@ -699,7 +920,7 @@ def render_vector_db_page():
     if not os.path.exists(CHROMA_PERSIST_DIR) or not os.listdir(CHROMA_PERSIST_DIR):
         st.markdown("""
         <div class="warning-box">
-            <strong>⚠️ 提示：</strong>向量数据库未构建，请先运行 build_vector_db_simple.py
+            <strong>⚠️ 提示：</strong>向量数据库未构建，请先运行 build_vector_db.py
         </div>
         """, unsafe_allow_html=True)
         return
@@ -879,7 +1100,6 @@ def render_vector_db_page():
 
 
 def run_full_evaluation():
-    """运行完整的7种方案评估"""
     import json
     from itertools import combinations
     from datetime import datetime
@@ -981,7 +1201,7 @@ def run_full_evaluation():
         f.write("\n")
         for r in results:
             modules_str = ",".join(sorted(r['modules']))
-            history_line = f"{timestamp}\t{modules_str}\t{r['avg_recall']*100:.2f}%\t{r['avg_precision']*100:.2f}%\t{r['avg_f1']*100:.2f}%\t{r['avg_hit_rate']*100:.2f}%\n"
+            history_line = f"{timestamp}\t{modules_str}\t{r['avg_recall']*100:.2f}%\t{r['avg_precision']*100:.2f}%\t{r['avg_f1']*100:.2f}%\t{r['avg_hit_rate']*100:.2f}\n"
             f.write(history_line)
         f.write("\n")
     
@@ -989,7 +1209,6 @@ def run_full_evaluation():
 
 
 def run_retrieval_test(enabled_modules):
-    """运行检索测试"""
     import json
     from itertools import combinations
     from datetime import datetime
@@ -1474,30 +1693,43 @@ def render_knowledge_graph_page():
 
 
 def main():
-    st.set_page_config(
-        page_title="混合检索系统 - 小麦病害诊断",
-        page_icon="🌾",
-        layout="wide",
-        initial_sidebar_state="expanded"
-    )
+    page = st.session_state.get('current_page', 'login')
+    
+    if page == 'home':
+        st.set_page_config(
+            page_title="知识增强优化的小麦病害辅助诊断问答系统",
+            page_icon="🌾",
+            layout="wide",
+            initial_sidebar_state="collapsed"
+        )
+    else:
+        st.set_page_config(
+            page_title="知识增强优化的小麦病害辅助诊断问答系统",
+            page_icon="🌾",
+            layout="wide",
+            initial_sidebar_state="expanded"
+        )
+    
+    init_session_state()
+    
+    if not st.session_state.logged_in:
+        render_login_page()
+        return
     
     load_custom_css()
-    init_session_state()
-    render_sidebar()
     
-    page = st.sidebar.radio(
-        "导航",
-        ["🏠 病害诊断", "🧪 检索测试", "📊 向量数据库", "🕸️ 知识图谱"],
-        label_visibility="collapsed"
-    )
+    if page != 'home':
+        render_sidebar()
     
-    if page == "🏠 病害诊断":
+    if page == 'home':
+        render_home_page()
+    elif page == 'diagnosis':
         render_main_page()
-    elif page == "🧪 检索测试":
+    elif page == 'test':
         render_test_page()
-    elif page == "📊 向量数据库":
+    elif page == 'vector_db':
         render_vector_db_page()
-    elif page == "🕸️ 知识图谱":
+    elif page == 'knowledge_graph':
         render_knowledge_graph_page()
 
 
